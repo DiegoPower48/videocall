@@ -6,7 +6,7 @@ import io from "socket.io-client";
 import { useEffect, useRef, useState } from "react";
 import { useForm } from "react-hook-form";
 
-const socket = io.connect("https://backendmichu.onrender.com");
+const socket = io.connect(process.env.NEXT_PUBLIC_API_URL);
 
 function App() {
   const [me, setMe] = useState("");
