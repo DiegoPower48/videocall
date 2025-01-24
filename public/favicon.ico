@@ -1,0 +1,1252 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://tablericons.com/icon/screen-share -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Metadata generated using Honeystone SEO: https://github.com/honeystone/laravel-seo -->
+    <title>screen share svg icon - Tabler icons</title>
+    <meta name="description" content="screen share icon as SVG, Base64, JSX, React, Vue by Tabler icons">
+    <meta name="keywords" content="tv,online,stream,mirroring,monitor,cast">
+    <link rel="canonical" href="https://tablericons.com/icon/screen-share">
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="screen share svg icon">
+    <meta name="twitter:description" content="screen share icon as SVG, Base64, JSX, React, Vue by Tabler icons">
+    <meta name="twitter:image" content="https://tablericons.com/assets/img/og.png">
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="Tabler icons">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="screen share svg icon">
+    <meta property="og:description" content="screen share icon as SVG, Base64, JSX, React, Vue by Tabler icons">
+    <meta property="og:image" content="https://tablericons.com/assets/img/og.png">
+    <meta property="og:url" content="https://tablericons.com/icon/screen-share">
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+        {"@context":"https:\/\/schema.org","@type":"WebPage","name":"screen share svg icon","description":"screen share icon as SVG, Base64, JSX, React, Vue by Tabler icons","image":["https:\/\/tablericons.com\/assets\/img\/og.png"],"url":"https:\/\/tablericons.com\/icon\/screen-share"}
+    </script>
+<!-- End Honeystone SEO -->
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/png" href="https://tablericons.com/favicon-48x48.png" sizes="48x48">
+    <link rel="icon" type="image/svg+xml" href="https://tablericons.com/favicon.svg">
+    <link rel="shortcut icon" href="https://tablericons.com/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://tablericons.com/apple-touch-icon.png">
+    <link rel="manifest" href="https://tablericons.com/site.webmanifest">
+    <link rel="manifest" href="https://tablericons.com/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="preconnect" href="https://fonts.bunny.net/">
+    <link rel="stylesheet" href="./favicon_files/css" as="style" onload="this.rel=&#39;stylesheet&#39;">
+    <noscript>
+        <link href="https://fonts.bunny.net/css?family=inter:400,500,600&display=swap" rel="stylesheet">
+    </noscript>
+
+    <script defer="" src="./favicon_files/cdn.min.js.descargar"></script>
+    <script defer="" src="./favicon_files/alpine-clipboard.js.descargar">
+    </script>
+
+    <link rel="stylesheet" href="./favicon_files/tippy.min.css" as="style" onload="this.rel=&#39;stylesheet&#39;">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/tippy.min.css">
+    </noscript>
+
+    <!-- Used to add dark mode right away, adding here prevents any flicker -->
+    <script>
+        if (typeof(Storage) !== "undefined") {
+            if (localStorage.getItem('dark_mode') && localStorage.getItem('dark_mode') == 'true') {
+                document.documentElement.classList.add('dark');
+            }
+        }
+    </script>
+
+
+    <link rel="preload" as="style" href="./favicon_files/app-Bi5dW1Jq.css"><link rel="modulepreload" href="./favicon_files/app-BN8vkrEd.js.descargar"><link rel="stylesheet" href="./favicon_files/app-Bi5dW1Jq.css" data-navigate-track="reload"><script type="module" src="./favicon_files/app-BN8vkrEd.js.descargar" data-navigate-track="reload"></script>    <link rel="stylesheet" href="./favicon_files/flux.css">
+            <script async="" defer="" data-domain="tablericons.com" src="./favicon_files/plausible.js.descargar"></script>
+    <!-- Livewire Styles --><style>[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}</style>
+<style type="text/css" id="operaUserStyle"></style><style>/* Make clicks pass-through */
+
+    #nprogress {
+      pointer-events: none;
+    }
+
+    #nprogress .bar {
+      background: var(--livewire-progress-bar-color, #29d);
+
+      position: fixed;
+      z-index: 1031;
+      top: 0;
+      left: 0;
+
+      width: 100%;
+      height: 2px;
+    }
+
+    /* Fancy blur effect */
+    #nprogress .peg {
+      display: block;
+      position: absolute;
+      right: 0px;
+      width: 100px;
+      height: 100%;
+      box-shadow: 0 0 10px var(--livewire-progress-bar-color, #29d), 0 0 5px var(--livewire-progress-bar-color, #29d);
+      opacity: 1.0;
+
+      -webkit-transform: rotate(3deg) translate(0px, -4px);
+          -ms-transform: rotate(3deg) translate(0px, -4px);
+              transform: rotate(3deg) translate(0px, -4px);
+    }
+
+    /* Remove these to get rid of the spinner */
+    #nprogress .spinner {
+      display: block;
+      position: fixed;
+      z-index: 1031;
+      top: 15px;
+      right: 15px;
+    }
+
+    #nprogress .spinner-icon {
+      width: 18px;
+      height: 18px;
+      box-sizing: border-box;
+
+      border: solid 2px transparent;
+      border-top-color: var(--livewire-progress-bar-color, #29d);
+      border-left-color: var(--livewire-progress-bar-color, #29d);
+      border-radius: 50%;
+
+      -webkit-animation: nprogress-spinner 400ms linear infinite;
+              animation: nprogress-spinner 400ms linear infinite;
+    }
+
+    .nprogress-custom-parent {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .nprogress-custom-parent #nprogress .spinner,
+    .nprogress-custom-parent #nprogress .bar {
+      position: absolute;
+    }
+
+    @-webkit-keyframes nprogress-spinner {
+      0%   { -webkit-transform: rotate(0deg); }
+      100% { -webkit-transform: rotate(360deg); }
+    }
+    @keyframes nprogress-spinner {
+      0%   { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    </style><style type="text/css">:root [href^="//mage98rquewz.com/"], :root [href^="//x4pollyxxpush.com/"], :root span[id^="ezoic-pub-ad-placeholder-"], :root ins.adsbygoogle[data-ad-slot], :root ins.adsbygoogle[data-ad-client], :root guj-ad, :root gpt-ad, :root div[id^="zergnet-widget"], :root div[id^="vuukle-ad-"], :root div[id^="taboola-stream-"], :root div[id^="sticky_ad_"], :root div[id^="st"][style^="z-index: 999999999;"], :root div[id^="ezoic-pub-ad-"], :root div[id^="div-gpt-"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"]):not([style="pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; position: fixed; bottom: 0px;"]), :root div[id^="dfp-ad-"], :root div[id^="crt-"][style], :root div[id^="adspot-"], :root div[id^="adrotate_widgets-"], :root ps-connatix-module, :root div[id^="ad_position_"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root div[data-id-advertdfpconf], :root div[data-dfp-id], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-alias="300x250 Ad 2"], :root div[data-adzone], :root div[data-adunit-path], :root div[data-adname], :root div[data-ad-targeting], :root div[data-ad-placeholder], :root div[aria-label="Ads"], :root display-ads, :root display-ad-component, :root aside[id^="adrotate_widgets-"], :root ark-top-ad, :root amp-fx-flying-carpet, :root amp-embed[type="taboola"], :root amp-connatix-player, :root amp-ad-custom, :root amp-ad, :root div[id^="google_dfp_"], :root ad-slot, :root ad-shield-ads, :root a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://xbet-4.com/"], :root div[id^="ad-position-"], :root a[href^="https://www.toprevenuegate.com/"], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://www.onlineusershielder.com/"], :root a[href^="https://www.liquidfire.mobi/"], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancecpmgate.com/"], :root a[href^="https://www.highcpmrevenuenetwork.com/"], :root a[href^="https://lnkxt.bannerator.com/"], :root a[href^="https://www.geekbuying.com/dynamic-ads/"], :root a[href^="https://www.financeads.net/tc.php?"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://maymooth-stopic.com/"], :root a[href^="https://www.dql2clk.com/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.dating-finder.com/signup/?ai_d="], :root a[href^="https://explore-site.com/"], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="https://www.adxsrve.com/"], :root [data-template-type="nativead"], :root a[href^="https://www.endorico.com/Smartlink/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root [data-ad-manager-id]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle), :root a[href^="https://voluum.prom-xcams.com/"], :root a[href^="https://twinrdsrv.com/"], :root a[href^="https://trk.nfl-online-streams.club/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://torguard.net/aff.php"] > img, :root [data-identity="adhesive-ad"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://tatrck.com/"], :root a[href^="https://click.candyoffers.com/"], :root [href^="https://zstacklife.com/"] img, :root a[href^="https://t.aslnk.link/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://t.acam.link/"], :root a[href*="//daichoho.com/"], :root a[href^="https://syndication.optimizesrv.com/"], :root a[href^="https://go.trackitalltheway.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://syndication.exoclick.com/"], :root a[href^="https://syndication.dynsrvtbg.com/"], :root div[data-alias="300x250 Ad 1"], :root a[href^="https://syndicate.contentsserved.com/"], :root a[href^="https://svb-analytics.trackerrr.com/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://slkmis.com/"], :root bottomadblock, :root a[href^="https://s.zlinkd.com/"], :root a[href^="https://s.zlink3.com/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href^="https://s.optzsrv.com/"], :root #kt_player > div[style$="display: block;"][style*="inset: 0px;"], :root a[href^="https://quotationfirearmrevision.com/"], :root a[href^="https://pubads.g.doubleclick.net/"], :root a[href^="https://ak.oalsauwy.net/"], :root a[href^="https://softwa.cfd/"], :root a[href^="https://play1ad.shop/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://www.dating-finder.com/?ai_d="], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root app-ad, :root [href^="https://ap.octopuspop.com/click/"] > img, :root a[href^="https://postback1win.com/"], :root a[href^="https://www.googleadservices.com/pagead/aclk?"] > img, :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://click.dtiserv2.com/"], :root a[href^="https://porntubemate.com/"], :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://pb-track.com/"], :root a[href^="https://pb-front.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://streamate.com/landing/click/"], :root div[class^="Adstyled__AdWrapper-"], :root a[href^="https://startgaming.net/tienda/" i], :root a[href^="https://osfultrbriolenai.info/"], :root a[href^="https://upsups.click/"], :root a[href^="https://ndt5.net/"], :root a[href^="http://eighteenderived.com/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root a[href^="https://m.do.co/c/"] > img, :root .nya-slot[style], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://lobimax.com/"], :root a[href^="https://lead1.pl/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://kiksajex.com/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://snowdayonline.xyz/"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://jaxofuna.com/"], :root a[href^="https://itubego.com/video-downloader/?affid="], :root a[href^="https://italarizege.xyz/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href^="https://hot-growngames.life/"], :root a[href^="https://helmethomicidal.com/"], :root a[href^="https://go.xxxvjmp.com/"], :root [class^="tile-picker__CitrusBannerContainer-sc-"], :root a[href^="https://go.xxxiijmp.com"], :root a[href^="https://go.xtbaffiliates.com/"], :root [data-role="tile-ads-module"], :root a[href^="https://go.xlviirdr.com"], :root a[href^="https://go.xlviiirdr.com"], :root a[href^="https://ismlks.com/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://go.xlirdr.com"], :root [data-css-class="dfp-inarticle"], :root a[href^="https://l.hyenadata.com/"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://zirdough.net/"], :root a[href^="https://s.deltraff.com/"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://lijavaxa.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.dmzjmp.com"], :root a[href^="https://www.bang.com/?aff="], :root #mgb-container > #mgb, :root a[href^="https://go.admjmp.com"], :root a[href^="https://ak.stikroltiltoowi.net/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://www.adskeeper.com"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://clicks.affstrack.com/"] > img, :root a[href^="https://ak.hauchiwu.com/"], :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="https://engine.blueistheneworanges.com/"], :root a[href^="https://drumskilxoa.click/"], :root a[href^="https://dl-protect.net/"], :root a[href^="https://rixofa.com/"], :root #ads[style^="position: absolute; z-index: 30; width: 100%; height"], :root a[href^="https://disobediencecalculatormaiden.com/"], :root a[href*=".foxqck.com/"], :root a[href^="https://ctosrd.com/"], :root [href^="https://noqreport.com/"] > img, :root a[href^="https://clicks.pipaffiliates.com/"], :root app-advertisement, :root a[href^="https://getmatchedlocally.com/"], :root a[href^="https://clickins.slixa.com/"], :root a[href^="https://datewhisper.life/"], :root a[href^="https://get-link.xyz/"], :root a[href^="https://click.linksynergy.com/fs-bin/"] > img, :root a[href^="https://combodef.com/"], :root a[href^="https://click.hoolig.app/"], :root a[href^="https://track.totalav.com/"], :root a[href^="https://ctrdwm.com/"], :root a[href^="https://go.xlvirdr.com"], :root a[href^="http://www.iyalc.com/"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://s.ma3ion.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root a[href^="https://bongacams2.com/track?"], :root a[href^="https://t.ajrkm1.com/"], :root [href="https://masstortfinancing.com"] img, :root a[href^="https://bongacams10.com/track?"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://bngpt.com/"], :root a[href^="https://black77854.com/"], :root a[href^="https://banners.livepartners.com/"], :root a[href^="http://revolvemockerycopper.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://intenseaffiliates.com/redirect/"], :root a[href^="https://aweptjmp.com/"], :root [class^="s2nPlayer"], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root a[href^="https://ausoafab.net/"], :root a[href^="https://ak.psaltauw.net/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="https://bc.game/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://adultfriendfinder.com/go/"], :root a[href^="https://ads.planetwin365affiliate.com/"], :root a[href^="https://ads.leovegas.com/"], :root a[href^="https://auesk.cfd/"], :root a[href^="https://a2.adform.net/"], :root a[href^="https://a.candyai.love/"], :root a[href^="https://playnano.online/offerwalls/?ref="], :root a[href^="https://a.adtng.com/"], :root .banner-img > .pbl, :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root div[id^="rc-widget-"], :root a[href^="http://eslp34af.click/"], :root a[href^="https://turnstileunavailablesite.com/"], :root a[href^="https://chaturbate.com/in/?"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href*="&maxads="], :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://1betandgonow.com/"], :root a[href^="https://eergortu.net/"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root [data-advadstrackid]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle), :root div[id^="optidigital-adslot"], :root a[href^="https://123-stream.org/"], :root a[href^="http://www.friendlyduck.com/AF_"], :root a[href^="https://allhost.shop/aff.php?"], :root [data-dynamic-ads], :root a[href^="http://vnte9urn.click/"], :root a[href^="https://getvideoz.click/"], :root a[href^="http://troopsassistedstupidity.com/"], :root a[href^="http://trk.globwo.online/"], :root a[href^="https://random-affiliate.atimaze.com/"], :root a-ad, :root a[href^="https://offhandpump.com/"], :root a[href^="http://stickingrepute.com/"], :root #slashboxes > .deals-rail, :root a[href^="http://premonitioninventdisagree.com/"], :root a[href^="http://naggingirresponsible.com/"], :root a[href^="https://in.rabbtrk.com/"], :root a[href^="http://www.h4trck.com/"], :root a[href^="https://81ac.xyz/"], :root a[href^="http://guestblackmail.com/"], :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root a[href^="https://trk.softonixs.xyz/"], :root a[href^="https://sexynearme.com/"], :root a[href^="https://myclick-2.com/"], :root a[href^="http://dragnag.com/"], :root a[href^="http://dragfault.com/"], :root .ob_container .item-container-obpd, :root a[href^="https://www8.smartadserver.com/"], :root a[href^="https://pb-imc.com/"], :root a[href^="http://deskfrontfreely.com/"], :root a[href^="http://muzzlematrix.com/"], :root a[href^="https://track.adform.net/"], :root a[href^="http://avthelkp.net/"], :root a[href^="https://a.medfoodhome.com/"], :root a[href^="https://engine.flixtrial.com/"], :root [data-type="ad-vertical"], :root [data-taboola-options], :root a[href^="http://annulmentequitycereals.com/"], :root a[href^="//startgaming.net/tienda/" i], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://s.cant3am.com/"], :root a[href^="//s.st1net.com/splash.php"], :root a[href^="https://join.virtualtaboo.com/track/"], :root [id^="ad_sky"], :root a[href^="http://coefficienttolerategravel.com/"], :root a[href^="https://a.medfoodsafety.com/"], :root a[href^="//go.eabids.com/"], :root a[href^="//ejitsirdosha.net/"], :root a[href^=" https://www.friendlyduck.com/AF_"], :root a[href*="/jump/next.php?r="], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root .\[\&_\.gdprAdTransparencyCogWheelButton\]\:\!pjra-z-\[5\], :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root a[href^="https://lone-pack.com/"], :root [data-d-ad-id], :root a[href*=".engine.adglare.net/"], :root a[href^="https://t.ajrkm3.com/"], :root [href^="https://aads.com/campaigns/"], :root a[href^="//stighoazon.com/"], :root [href^="https://www.profitablegatecpm.com/"], :root div[id^="lazyad-"], :root a[href^="http://com-1.pro/"], :root a[href*=".cfm?domain="][href*="&fp="], :root [data-ad-name], :root a[href^="https://loboclick.com/"], :root a[data-url^="https://vulpix.bet/?ref="], :root a[href^="https://ab.advertiserurl.com/aff/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root [onclick*="content.ad/"], :root [name^="google_ads_iframe"], :root [id^="section-ad-banner"], :root a[href^="https://go.xlivrdr.com"], :root [onclick^="location.href='https://1337x.vpnonly.site/"], :root a[href^="https://golinks.work/"], :root div[id^="gpt_ad_"], :root [id^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"]):not([style="pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; position: fixed; bottom: 0px;"]), :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href*="//jjgirls.com/sex/Chaturbate"], :root [id^="ad-wrap-"], :root [href^="https://zone.gotrackier.com/"], :root a[href^="http://sarcasmadvisor.com/"], :root [href^="https://www.restoro.com/"], :root [href^="https://www.targetingpartner.com/"], :root .section-subheader > .section-hotel-prices-header, :root [href^="https://www.hostg.xyz/"] > img, :root a[href^="http://adultfriendfinder.com/go/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://tour.mrskin.com/"], :root citrus-ad-wrapper, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="https://go.grinsbest.com/"], :root a[href^="https://vo2.qrlsx.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root [href^="https://wct.link/click?"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root [href^="https://join.girlsoutwest.com/"], :root a[href^="https://activate-game.com/"], :root .scroll-fixable.rail-right > .deals-rail, :root [data-wpas-zoneid], :root a[href^="https://track.aftrk3.com/"], :root [href^="https://join3.bannedsextapes.com"], :root a[href^="https://bodelen.com/"], :root a[href*=".g2afse.com/"], :root [href^="https://join.playboyplus.com/track/"], :root div[id^="adngin-"], :root [data-rc-widget], :root span[data-ez-ph-id], :root [href^="https://track.aftrk1.com/"], :root a[href^="https://tm-offers.gamingadult.com/"], :root [href^="https://charmingdatings.life/"], :root [href^="https://glersakr.com/"], :root a[href^="https://a.bestcontentfood.top/"], :root [href^="https://cpa.10kfreesilver.com/"], :root a[data-href^="http://ads.trafficjunky.net/"], :root a[href^="http://partners.etoro.com/"], :root a[href^="https://www.friendlyduck.com/AF_"], :root [href^="https://ad1.adfarm1.adition.com/"], :root a[href^="https://bngprm.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.bushheel.com/"], :root a[href^="https://ctjdwm.com/"], :root a[href^="https://camfapr.com/landing/click/"], :root div[data-ad-wrapper], :root .gnt_em_vp_c[data-g-s="vp_dk"], :root [href="//sexcams.plus/"], :root [href^="http://www.mypillow.com/"] > img, :root [href^="https://awbbjmp.com/"], :root a[href^="https://tracker.loropartners.com/"], :root #kt_player > a[target="_blank"], :root a[href^="http://bongacams.com/track?"], :root [href^="http://mypillow.com/"] > img, :root [href="https://ourgoldguy.com/contact/"] img, :root #teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"], :root [href="https://www.masstortfinancing.com/"] > img, :root a[href^="https://go.rmhfrtnd.com/"], :root [href="https://jdrucker.com/gold"] > img, :root [data-block-type="ad"], :root [data-ad-width]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle), :root [href^="https://go.xlrdr.com"], :root [data-testid^="taboola-"], :root a[href^="https://track.1234sd123.com/"], :root zeus-ad, :root [data-testid="prism-ad-wrapper"], :root [href^="https://ad.admitad.com/"], :root [href^="https://mypillow.com/"] > img, :root [data-testid="ad_testID"], :root [href^="https://antiagingbed.com/discount/"] > img, :root a[href*=".adsrv.eacdn.com/"], :root [href^="https://optimizedelite.com/"] > img, :root [data-name="adaptiveConstructorAd"], :root a[href^="https://go.cmtaffiliates.com/"], :root [data-testid="adBanner-wrapper"], :root [href^="https://mylead.global/stl/"] > img, :root [href^="https://mypatriotsupply.com/"] > img, :root a[href^="https://go.hpyjmp.com"], :root [href^="https://mystore.com/"] > img, :root a[href^="https://witnessjacket.com/"], :root [data-mobile-ad-id], :root [class^="amp-ad-"], :root a[href^="http://handgripvegetationhols.com/"], :root a[href^="https://bs.serving-sys.com"], :root a[href^="https://go.bbrdbr.com"], :root a[href^="https://fc.lc/ref/"], :root [data-adshim], :root topadblock, :root a[href^="//s.zlinkd.com/"], :root [data-id^="div-gpt-ad"], :root #teaser1[style^="width:autopx;"], :root [href^="https://www.cloudways.com/en/?id"], :root [data-asg-ins], :root [data-desktop-ad-id], :root a[href^="https://gamingadlt.com/?offer="], :root .grid > .container > #aside-promotion, :root DFP-AD, :root [id^="ad_slider"], :root [data-adbridg-ad-class], :root a[href^="https://baipahanoop.net/"], :root [href^="https://v.investologic.co.uk/"], :root div[id^="ad-div-"], :root [data-ad-module]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle), :root AMP-AD, :root [data-ad-cls], :root [data-ez-name], :root [href^="https://www.brighteonstore.com/products/"] img, :root a[href^="https://go.mnaspm.com/"], :root a[href^="https://service.bv-aff-trx.com/"], :root a[href^="https://6-partner.com/"], :root a[href^="https://go.xxxijmp.com"], :root [href^="https://istlnkcl.com/"], :root a[href^="https://clixtrac.com/"], :root atf-ad-slot, :root [data-adblockkey]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(html):not(.adsbygoogle), :root a[href^="https://traffdaq.com/"], :root [data-testid="commercial-label-taboola"], :root [class^="div-gpt-ad"], :root a[href^="http://tc.tradetracker.net/"] > img, :root [href^="https://affiliate.fastcomet.com/"] > img, :root [class^="adDisplay-module"], :root [data-freestar-ad][id], :root AD-SLOT, :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root #teaser2[style^="width:autopx;"], :root a[href^="https://ngineet.cfd/"], :root [data-revive-zoneid], :root a[href^="https://losingoldfry.com/"], :root a[href^="https://gml-grp.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root #teaser3[style^="width:autopx;"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="http://li.blogtrottr.com/click?"], :root a[href^="https://t.ajump1.com/"], :root a[href^="https://go.xxxjmp.com"], :root #leader-companion > a[href], :root #target.pk-page-ready #pk-status-message { display: none !important; }</style></head>
+
+<body class="min-h-screen antialiased bg-white dark:bg-gradient-to-b dark:from-gray-950 dark:to-gray-900 ">
+    <header class="[grid-area:header] z-10 min-h-14  mx-auto border-b bg-zinc-50 dark:bg-zinc-900 border-zinc-200 dark:border-zinc-700" x-data="" x-bind:style="{ position: &#39;sticky&#39;, top: $el.offsetTop + &#39;px&#39;, &#39;max-height&#39;: &#39;calc(100vh - &#39; + $el.offsetTop + &#39;px)&#39; }" data-flux-header="" style="position: sticky; top: 0px; max-height: calc(0px + 100vh);">
+            <div class="mx-auto w-full h-full [:where(&amp;)]:max-w-7xl px-6 lg:px-8 flex items-center">
+            <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg w-10 flex -ml-2.5 bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-400 hover:text-zinc-800 dark:text-zinc-400 dark:hover:text-white     shrink-0 lg:hidden" data-flux-button="data-flux-button" x-data="" x-on:click="document.body.hasAttribute(&#39;data-show-stashed-sidebar&#39;) ? document.body.removeAttribute(&#39;data-show-stashed-sidebar&#39;) : document.body.setAttribute(&#39;data-show-stashed-sidebar&#39;, &#39;&#39;)" data-flux-sidebar-toggle="data-flux-sidebar-toggle" aria-label="Toggle sidebar">
+        <svg class="shrink-0 [:where(&amp;)]:size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path fill-rule="evenodd" d="M2 6.75A.75.75 0 0 1 2.75 6h14.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 6.75Zm0 6.5a.75.75 0 0 1 .75-.75h14.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path>
+</svg>
+    </button>
+
+    <a href="https://tablericons.com/" class="h-10 flex items-center mr-4 gap-2 font-bold max-lg:hidden dark:hidden" data-flux-brand="">
+        <div class="size-6 rounded overflow-hidden shrink-0">
+                            <img src="./favicon_files/logo.png">
+                    </div>
+
+        <div class="text-sm text-zinc-900 dark:text-zinc-100 font-medium truncate">Tabler Icons</div>
+    </a>
+    <a href="https://tablericons.com/" class="h-10 flex items-center mr-4 gap-2 max-lg:!hidden hidden dark:flex" data-flux-brand="">
+        <div class="size-6 rounded overflow-hidden shrink-0">
+                            <img src="./favicon_files/logo.png">
+                    </div>
+
+        <div class="text-sm text-zinc-900 dark:text-zinc-100 font-medium truncate">Tabler Icons</div>
+    </a>
+
+    <nav class="flex items-center gap-1 py-3  -mb-px max-lg:hidden" data-flux-navbar="">
+    <a href="https://tablericons.com/favorites" class="px-3 h-8 flex items-center rounded-lg relative  text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:after:absolute data-[current]:after:-bottom-3 data-[current]:after:inset-x-0 data-[current]:after:h-[2px] data-[current]:after:bg-zinc-800 data-[current]:after:dark:bg-white" data-flux-navbar-items="data-flux-navbar-items">
+        <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"></path>
+</svg>
+
+        
+                    </div>
+    
+            <div class="ml-3 flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">My Favorites</div>
+    </a>
+
+        <div data-orientation="vertical" role="none" class="border-0 [print-color-adjust:exact] bg-zinc-800/5 dark:bg-white/10 self-stretch self-center w-px my-2" data-flux-separator=""></div>
+
+        <ui-dropdown position="bottom start" class="max-lg:hidden" data-flux-dropdown="">
+    <button type="button" class="px-3 h-8 flex items-center rounded-lg relative  text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:after:absolute data-[current]:after:-bottom-3 data-[current]:after:inset-x-0 data-[current]:after:h-[2px] data-[current]:after:bg-zinc-800 data-[current]:after:dark:bg-white" data-flux-navbar-items="data-flux-navbar-items" aria-haspopup="true" aria-controls="lofi-dropdown-e236c1c3aa6a9" aria-expanded="false">
+        <div class=" flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Other Projects</div>
+    
+            <svg class="shrink-0 [:where(&amp;)]:size-4 size-4 ml-1" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path fill-rule="evenodd" d="M4.22 6.22a.75.75 0 0 1 1.06 0L8 8.94l2.72-2.72a.75.75 0 1 1 1.06 1.06l-3.25 3.25a.75.75 0 0 1-1.06 0L4.22 7.28a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd"></path>
+</svg>
+    </button>
+            <nav class="[:where(&amp;)]:min-w-48 p-[.3125rem] rounded-lg shadow-sm border border-zinc-200 dark:border-zinc-600 bg-white dark:bg-zinc-700" popover="manual" data-flux-navmenu="" id="lofi-dropdown-e236c1c3aa6a9">
+    <a href="https://iconsax.dev/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        Free SVG Icons
+    </a>
+                <a href="https://sqlzap.com/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        Learn SQL
+    </a>
+                <a href="https://folll.io/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        Free resume builder
+    </a>
+                <a href="https://aigems.com/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        AI Directory
+    </a>
+                <a href="https://dolitools.com/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        Free Developer Tools
+    </a>
+                <a href="https://tailwindwidgets.com/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        Tailwind Components
+    </a>
+                <a href="https://invoicegenerator.io/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        Free Invoice Generator
+    </a>
+                <a href="https://htmlemailtemplates.net/?ref=tablericons" class="group flex items-center px-2 py-2 lg:py-1.5 w-full rounded-md text-left text-sm font-medium text-zinc-800 hover:bg-zinc-50 dark:text-white hover:dark:bg-zinc-600 [&amp;_[data-navmenu-icon]]:text-zinc-400 dark:[&amp;_[data-navmenu-icon]]:text-white/60 [&amp;:hover_[data-navmenu-icon]]:text-current" data-flux-navmenu-item="data-flux-navmenu-item">
+        Free HTML Email Templates
+    </a>
+</nav>
+</ui-dropdown>
+</nav>
+
+    <a href="https://tablericons.com/become-a-sponsor" class="px-3 h-8 flex items-center rounded-lg relative  text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:after:absolute data-[current]:after:-bottom-3 data-[current]:after:inset-x-0 data-[current]:after:h-[2px] data-[current]:after:bg-zinc-800 data-[current]:after:dark:bg-white" data-flux-navbar-items="data-flux-navbar-items" data-pan="become-a-sponsor">
+        <div class=" flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Become a Sponsor</div>
+    </a>
+    <div class="contents" x-data="" x-on:click="$el.querySelector(&#39;button[disabled]&#39;) || $dispatch(&#39;modal-show&#39;, { name: &#39;feedback&#39; })" data-flux-modal-trigger="">
+    <button type="button" class="px-3 h-8 flex items-center rounded-lg relative  text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:after:absolute data-[current]:after:-bottom-3 data-[current]:after:inset-x-0 data-[current]:after:h-[2px] data-[current]:after:bg-zinc-800 data-[current]:after:dark:bg-white" data-flux-navbar-items="data-flux-navbar-items" data-pan="submit-feedback">
+        <div class=" flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Submit Request/Feedback</div>
+    </button>
+</div>
+
+    <div class="flex-1" data-flux-spacer=""></div>
+
+            <nav class="flex items-center gap-1 py-3  mr-4" data-flux-navbar="">
+    <div class="contents" x-data="" x-on:click="$el.querySelector(&#39;button[disabled]&#39;) || $dispatch(&#39;modal-show&#39;, { name: &#39;settings&#39; })" data-flux-modal-trigger="">
+    <a href="https://tablericons.com/icon/screen-share#" class="px-3 h-8 flex items-center rounded-lg relative !px-2.5 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:after:absolute data-[current]:after:-bottom-3 data-[current]:after:inset-x-0 data-[current]:after:h-[2px] data-[current]:after:bg-zinc-800 data-[current]:after:dark:bg-white max-lg:hidden" data-flux-navbar-items="data-flux-navbar-items" label="Settings" data-pan="btn-settings">
+        <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M9.594 3.94c.09-.542.56-.94 1.11-.94h2.593c.55 0 1.02.398 1.11.94l.213 1.281c.063.374.313.686.645.87.074.04.147.083.22.127.325.196.72.257 1.075.124l1.217-.456a1.125 1.125 0 0 1 1.37.49l1.296 2.247a1.125 1.125 0 0 1-.26 1.431l-1.003.827c-.293.241-.438.613-.43.992a7.723 7.723 0 0 1 0 .255c-.008.378.137.75.43.991l1.004.827c.424.35.534.955.26 1.43l-1.298 2.247a1.125 1.125 0 0 1-1.369.491l-1.217-.456c-.355-.133-.75-.072-1.076.124a6.47 6.47 0 0 1-.22.128c-.331.183-.581.495-.644.869l-.213 1.281c-.09.543-.56.94-1.11.94h-2.594c-.55 0-1.019-.398-1.11-.94l-.213-1.281c-.062-.374-.312-.686-.644-.87a6.52 6.52 0 0 1-.22-.127c-.325-.196-.72-.257-1.076-.124l-1.217.456a1.125 1.125 0 0 1-1.369-.49l-1.297-2.247a1.125 1.125 0 0 1 .26-1.431l1.004-.827c.292-.24.437-.613.43-.991a6.932 6.932 0 0 1 0-.255c.007-.38-.138-.751-.43-.992l-1.004-.827a1.125 1.125 0 0 1-.26-1.43l1.297-2.247a1.125 1.125 0 0 1 1.37-.491l1.216.456c.356.133.751.072 1.076-.124.072-.044.146-.086.22-.128.332-.183.582-.495.644-.869l.214-1.28Z"></path>
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path>
+</svg>
+
+        
+                    </div>
+    </a>
+</div>
+</nav>
+    
+
+                        <a href="https://tablericons.com/auth/login" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg px-4 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" label="Login">
+        Login
+    </a>
+            
+    <ui-modal x-on:keydown.cmd.k.document="$el.showModal()" data-flux-modal="">
+    
+    <dialog wire:ignore.self="" class="bg-transparent min-h-[30rem] w-full max-w-[30rem] px-6" data-modal="search" x-data="" x-on:modal-show.document="if ($event.detail.name === &#39;search&#39; &amp;&amp; (! $event.detail.scope)) $el.showModal()" x-on:modal-close.document="if (! $event.detail.name || ($event.detail.name === &#39;search&#39; &amp;&amp; (! $event.detail.scope))) $el.close()">
+        <ui-select clear="action" filter="filter" class="w-full block rounded-xl overflow-hidden shadow-sm border border-zinc-200 dark:border-zinc-600 border-none shadow-lg" data-flux-command="">
+    <div class="relative" data-flux-command-input="">
+    <div class="absolute top-0 bottom-0 flex items-center justify-center text-xs text-zinc-400 pl-3.5 left-0 [&amp;:has(+input:focus)]:text-zinc-800 [&amp;:has(+input:focus)]:dark:text-zinc-400">
+        <svg class="shrink-0 [:where(&amp;)]:size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.452 4.391l3.328 3.329a.75.75 0 1 1-1.06 1.06l-3.329-3.328A7 7 0 0 1 2 9Z" clip-rule="evenodd"></path>
+</svg>
+
+            </div>
+
+    <input type="text" class="h-12 w-full flex items-center px-3 py-2 font-medium text-sm text-zinc-800 dark:text-white pl-11 pr-11 outline-none border-b border-zinc-200 dark:border-zinc-600 bg-white dark:bg-zinc-700" placeholder="Search..." autocomplete="off" aria-autocomplete="none">
+
+            <div class="absolute top-0 bottom-0 flex items-center justify-center pr-2 right-0">
+            <ui-close>
+                <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md w-8 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-400 hover:text-zinc-800 dark:text-zinc-400 dark:hover:text-white" data-flux-button="data-flux-button" aria-label="Close command modal">
+        <svg class="shrink-0 [:where(&amp;)]:size-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M5.28 4.22a.75.75 0 0 0-1.06 1.06L6.94 8l-2.72 2.72a.75.75 0 1 0 1.06 1.06L8 9.06l2.72 2.72a.75.75 0 1 0 1.06-1.06L9.06 8l2.72-2.72a.75.75 0 0 0-1.06-1.06L8 6.94 5.28 4.22Z"></path>
+</svg>
+    </button>
+            </ui-close>
+        </div>
+    </div>
+
+
+            <ui-options class="p-[.3125rem] overflow-y-auto bg-white dark:bg-zinc-700" data-flux-command-items="" tabindex="-1" role="listbox" id="lofi-options-f00e9244572ad">
+    <ui-option action="" class="w-full group/item data-[hidden]:hidden h-10 flex items-center px-2 py-1.5 focus:outline-none rounded-md text-left text-sm font-medium text-zinc-800 data-[active]:bg-zinc-100 dark:text-white data-[active]:dark:bg-zinc-600" data-flux-command-item="" id="lofi-option-3d165d16e7eea" role="option">
+            <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 mr-2 size-6 text-zinc-400 dark:text-zinc-400 group-data-[active]/item:text-zinc-800 group-data-[active]/item:dark:text-white" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"></path>
+</svg>
+
+                </div>
+    
+    Assign to…
+
+            <div class="inline-flex ml-auto rounded bg-zinc-800/5 dark:bg-white/10 px-1 py-0.5">
+            <span class="font-medium text-xs text-zinc-500 dark:text-zinc-300">⌘A</span>
+        </div>
+    </ui-option>
+                <ui-option action="" class="w-full group/item data-[hidden]:hidden h-10 flex items-center px-2 py-1.5 focus:outline-none rounded-md text-left text-sm font-medium text-zinc-800 data-[active]:bg-zinc-100 dark:text-white data-[active]:dark:bg-zinc-600" data-flux-command-item="" id="lofi-option-a6ab46423feb1" role="option">
+            <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 mr-2 size-6 text-zinc-400 dark:text-zinc-400 group-data-[active]/item:text-zinc-800 group-data-[active]/item:dark:text-white" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m3.75 9v6m3-3H9m1.5-12H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z"></path>
+</svg>
+
+                </div>
+    
+    Create new file
+
+    </ui-option>
+                <ui-option action="" class="w-full group/item data-[hidden]:hidden h-10 flex items-center px-2 py-1.5 focus:outline-none rounded-md text-left text-sm font-medium text-zinc-800 data-[active]:bg-zinc-100 dark:text-white data-[active]:dark:bg-zinc-600" data-flux-command-item="" id="lofi-option-b8af94462585c" role="option">
+            <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 mr-2 size-6 text-zinc-400 dark:text-zinc-400 group-data-[active]/item:text-zinc-800 group-data-[active]/item:dark:text-white" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 10.5v6m3-3H9m4.06-7.19-2.12-2.12a1.5 1.5 0 0 0-1.061-.44H4.5A2.25 2.25 0 0 0 2.25 6v12a2.25 2.25 0 0 0 2.25 2.25h15A2.25 2.25 0 0 0 21.75 18V9a2.25 2.25 0 0 0-2.25-2.25h-5.379a1.5 1.5 0 0 1-1.06-.44Z"></path>
+</svg>
+
+                </div>
+    
+    Create new project
+
+            <div class="inline-flex ml-auto rounded bg-zinc-800/5 dark:bg-white/10 px-1 py-0.5">
+            <span class="font-medium text-xs text-zinc-500 dark:text-zinc-300">⌘⇧N</span>
+        </div>
+    </ui-option>
+                <ui-option action="" class="w-full group/item data-[hidden]:hidden h-10 flex items-center px-2 py-1.5 focus:outline-none rounded-md text-left text-sm font-medium text-zinc-800 data-[active]:bg-zinc-100 dark:text-white data-[active]:dark:bg-zinc-600" href="/" data-flux-command-item="" id="lofi-option-738412db019fe" role="option">
+            <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 mr-2 size-6 text-zinc-400 dark:text-zinc-400 group-data-[active]/item:text-zinc-800 group-data-[active]/item:dark:text-white" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6 2.292m0-14.25v14.25"></path>
+</svg>
+
+                </div>
+    
+    Documentation
+
+    </ui-option>
+                <ui-option action="" class="w-full group/item data-[hidden]:hidden h-10 flex items-center px-2 py-1.5 focus:outline-none rounded-md text-left text-sm font-medium text-zinc-800 data-[active]:bg-zinc-100 dark:text-white data-[active]:dark:bg-zinc-600" data-flux-command-item="" id="lofi-option-61426954d3148" role="option">
+            <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 mr-2 size-6 text-zinc-400 dark:text-zinc-400 group-data-[active]/item:text-zinc-800 group-data-[active]/item:dark:text-white" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 0 1-2.25 2.25M16.5 7.5V18a2.25 2.25 0 0 0 2.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 0 0 2.25 2.25h13.5M6 7.5h3v3H6v-3Z"></path>
+</svg>
+
+                </div>
+    
+    Changelog
+
+    </ui-option>
+                <ui-option action="" class="w-full group/item data-[hidden]:hidden h-10 flex items-center px-2 py-1.5 focus:outline-none rounded-md text-left text-sm font-medium text-zinc-800 data-[active]:bg-zinc-100 dark:text-white data-[active]:dark:bg-zinc-600" data-flux-command-item="" id="lofi-option-b367074342eb6" role="option">
+            <div class="relative">
+            <svg class="shrink-0 [:where(&amp;)]:size-6 mr-2 size-6 text-zinc-400 dark:text-zinc-400 group-data-[active]/item:text-zinc-800 group-data-[active]/item:dark:text-white" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M9.594 3.94c.09-.542.56-.94 1.11-.94h2.593c.55 0 1.02.398 1.11.94l.213 1.281c.063.374.313.686.645.87.074.04.147.083.22.127.325.196.72.257 1.075.124l1.217-.456a1.125 1.125 0 0 1 1.37.49l1.296 2.247a1.125 1.125 0 0 1-.26 1.431l-1.003.827c-.293.241-.438.613-.43.992a7.723 7.723 0 0 1 0 .255c-.008.378.137.75.43.991l1.004.827c.424.35.534.955.26 1.43l-1.298 2.247a1.125 1.125 0 0 1-1.369.491l-1.217-.456c-.355-.133-.75-.072-1.076.124a6.47 6.47 0 0 1-.22.128c-.331.183-.581.495-.644.869l-.213 1.281c-.09.543-.56.94-1.11.94h-2.594c-.55 0-1.019-.398-1.11-.94l-.213-1.281c-.062-.374-.312-.686-.644-.87a6.52 6.52 0 0 1-.22-.127c-.325-.196-.72-.257-1.076-.124l-1.217.456a1.125 1.125 0 0 1-1.369-.49l-1.297-2.247a1.125 1.125 0 0 1 .26-1.431l1.004-.827c.292-.24.437-.613.43-.991a6.932 6.932 0 0 1 0-.255c.007-.38-.138-.751-.43-.992l-1.004-.827a1.125 1.125 0 0 1-.26-1.43l1.297-2.247a1.125 1.125 0 0 1 1.37-.491l1.216.456c.356.133.751.072 1.076-.124.072-.044.146-.086.22-.128.332-.183.582-.495.644-.869l.214-1.28Z"></path>
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path>
+</svg>
+
+                </div>
+    
+    Settings
+
+            <div class="inline-flex ml-auto rounded bg-zinc-800/5 dark:bg-white/10 px-1 py-0.5">
+            <span class="font-medium text-xs text-zinc-500 dark:text-zinc-300">⌘,</span>
+        </div>
+    </ui-option>
+
+    <ui-empty class="data-[hidden]:hidden" data-hidden="">
+    <div class="flex items-center justify-center h-10">
+        <div class="text-sm text-zinc-500 dark:text-zinc-400 font-medium">
+            No results found
+        </div>
+    </div>
+</ui-empty>
+</ui-options>
+</ui-select>
+
+            </dialog>
+</ui-modal>
+        </div>
+    </header>
+
+
+
+<ui-modal data-flux-modal="">
+    
+    <dialog wire:ignore.self="" class="p-6 [:where(&amp;)]:max-w-xl shadow-lg rounded-xl bg-white dark:bg-zinc-800 border border-transparent dark:border-zinc-700 space-y-6 md:w-96" data-modal="please-login" x-data="" x-on:modal-show.document="if ($event.detail.name === &#39;please-login&#39; &amp;&amp; (! $event.detail.scope)) $el.showModal()" x-on:modal-close.document="if (! $event.detail.name || ($event.detail.name === &#39;please-login&#39; &amp;&amp; (! $event.detail.scope))) $el.close()">
+        <div>
+        <div class="font-medium text-zinc-800 dark:text-white text-base [&amp;:has(+[data-flux-subheading])]:mb-2 [[data-flux-subheading]+&amp;]:mt-2" data-flux-heading="">Information</div>
+        <div class="text-sm text-zinc-500 dark:text-white/70" data-flux-subheading="">
+    Setting are available for logged in users. Please register.
+</div>
+        <div class="flex justify-center mt-8">
+            <a href="https://tablericons.com/auth/login" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg px-4 inline-flex  bg-zinc-800 hover:bg-zinc-900 dark:bg-white dark:hover:bg-zinc-100 text-white dark:text-zinc-800  shadow-[inset_0px_1px_theme(colors.zinc.900),inset_0px_2px_theme(colors.white/.15)] dark:shadow-none [[data-flux-button-group]_&amp;]:border-r [:is([data-flux-button-group]&gt;&amp;:last-child,_[data-flux-button-group]_:last-child&gt;&amp;)]:border-r-0 [[data-flux-button-group]_&amp;]:border-black [[data-flux-button-group]_&amp;]:dark:border-zinc-900/25" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target">
+        Register
+    </a>
+        </div>
+    </div>
+
+                    
+            <div class="absolute top-0 right-0 mt-4 mr-4 [&amp;[hidden]]:block" hidden="">
+                <ui-close data-flux-modal-close="">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md w-8 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white     !text-zinc-400 hover:!text-zinc-800 dark:!text-zinc-500 dark:hover:!text-white" data-flux-button="data-flux-button" alt="Close modal">
+        <svg class="shrink-0 [:where(&amp;)]:size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M6.28 5.22a.75.75 0 0 0-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 1 0 1.06 1.06L10 11.06l3.72 3.72a.75.75 0 1 0 1.06-1.06L11.06 10l3.72-3.72a.75.75 0 0 0-1.06-1.06L10 8.94 6.28 5.22Z"></path>
+</svg>
+    </button>
+</ui-close>
+            </div>
+            </dialog>
+</ui-modal>
+
+
+
+<ui-modal wire:snapshot="{&quot;data&quot;:{&quot;user&quot;:null,&quot;name&quot;:null,&quot;email&quot;:null,&quot;message&quot;:null},&quot;memo&quot;:{&quot;id&quot;:&quot;gl8IqqC5ws0NF44yp6xJ&quot;,&quot;name&quot;:&quot;feedback&quot;,&quot;path&quot;:&quot;icon\/screen-share&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;en&quot;},&quot;checksum&quot;:&quot;6360ecdab5e819b73d13ed945ac6f2e70470a60c4e9274a7ae50f26a57943462&quot;}" wire:effects="[]" wire:id="gl8IqqC5ws0NF44yp6xJ" data-flux-modal="">
+    
+    <dialog wire:ignore.self="" class="p-6 [:where(&amp;)]:max-w-xl shadow-lg rounded-xl bg-white dark:bg-zinc-800 border border-transparent dark:border-zinc-700 space-y-6 md:w-96" wire:close="closeModal" data-modal="feedback" x-data="" x-on:modal-show.document="
+                if ($event.detail.name === &#39;feedback&#39; &amp;&amp; ($event.detail.scope === &#39;gl8IqqC5ws0NF44yp6xJ&#39;)) $el.showModal();
+                if ($event.detail.name === &#39;feedback&#39; &amp;&amp; (! $event.detail.scope)) $el.showModal();
+            " x-on:modal-close.document="
+                if ($event.detail.name === &#39;feedback&#39; &amp;&amp; ($event.detail.scope === &#39;gl8IqqC5ws0NF44yp6xJ&#39;)) $el.close();
+                if (! $event.detail.name || ($event.detail.name === &#39;feedback&#39; &amp;&amp; (! $event.detail.scope))) $el.close();
+            ">
+        <div>
+        <div class="font-medium text-zinc-800 dark:text-white text-base [&amp;:has(+[data-flux-subheading])]:mb-2 [[data-flux-subheading]+&amp;]:mt-2" data-flux-heading="">Send Suggestion/Feeback</div>
+        <div class="text-sm text-zinc-500 dark:text-white/70" data-flux-subheading="">
+    Please fill up the form below and press send.
+</div>
+    </div>
+
+    <form wire:submit.prevent="sendFeedback" class="flex flex-col space-y-6">
+        <ui-field class="min-w-0 [&amp;:not(:has([data-flux-field])):has([data-flux-control][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-radio-group][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-checkbox-group][disabled])&gt;[data-flux-label]]:opacity-50 block [&amp;&gt;[data-flux-label]]:mb-3 [&amp;&gt;[data-flux-label]:has(+[data-flux-description])]:mb-2 [&amp;&gt;[data-flux-label]+[data-flux-description]]:mt-0 [&amp;&gt;[data-flux-label]+[data-flux-description]]:mb-3 [&amp;&gt;*:not([data-flux-label])+[data-flux-description]]:mt-3" data-flux-field="">
+    <ui-label class="text-sm font-medium select-none text-zinc-800 dark:text-white" data-flux-label="" id="lofi-label-b47c25ee2b22c" aria-hidden="true">
+    Name
+
+    
+    </ui-label>
+        
+        
+        <div class="w-full relative block group/input" data-flux-input="">
+            
+            <input type="text" class="w-full border rounded-lg block disabled:shadow-none dark:shadow-none appearance-none text-sm py-2 h-10 leading-[1.375rem] pl-3 pr-3 bg-white dark:bg-white/10 dark:disabled:bg-white/[7%] text-zinc-700 disabled:text-zinc-500 placeholder-zinc-400 disabled:placeholder-zinc-400/70 dark:text-zinc-300 dark:disabled:text-zinc-400 dark:placeholder-zinc-400 dark:disabled:placeholder-zinc-500 shadow-sm border-zinc-200 border-b-zinc-300/80 disabled:border-b-zinc-200 dark:border-white/10 dark:disabled:border-white/5" label="Name" wire:model="name" placeholder="Your name" name="name" data-flux-control="" data-flux-group-target="" aria-labelledby="lofi-label-b47c25ee2b22c">
+
+            
+            
+            
+            
+            
+                    </div>
+
+        <div aria-live="assertive" class="mt-3 text-sm font-medium text-red-500 dark:text-red-400 hidden" data-flux-error="">
+    </div>
+</ui-field>
+
+        <ui-field class="min-w-0 [&amp;:not(:has([data-flux-field])):has([data-flux-control][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-radio-group][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-checkbox-group][disabled])&gt;[data-flux-label]]:opacity-50 block [&amp;&gt;[data-flux-label]]:mb-3 [&amp;&gt;[data-flux-label]:has(+[data-flux-description])]:mb-2 [&amp;&gt;[data-flux-label]+[data-flux-description]]:mt-0 [&amp;&gt;[data-flux-label]+[data-flux-description]]:mb-3 [&amp;&gt;*:not([data-flux-label])+[data-flux-description]]:mt-3" data-flux-field="">
+    <ui-label class="text-sm font-medium select-none text-zinc-800 dark:text-white" data-flux-label="" id="lofi-label-0682fa85e0de7" aria-hidden="true">
+    Email
+
+    
+    </ui-label>
+        
+        
+        <div class="w-full relative block group/input" data-flux-input="">
+            
+            <input type="email" class="w-full border rounded-lg block disabled:shadow-none dark:shadow-none appearance-none text-sm py-2 h-10 leading-[1.375rem] pl-3 pr-3 bg-white dark:bg-white/10 dark:disabled:bg-white/[7%] text-zinc-700 disabled:text-zinc-500 placeholder-zinc-400 disabled:placeholder-zinc-400/70 dark:text-zinc-300 dark:disabled:text-zinc-400 dark:placeholder-zinc-400 dark:disabled:placeholder-zinc-500 shadow-sm border-zinc-200 border-b-zinc-300/80 disabled:border-b-zinc-200 dark:border-white/10 dark:disabled:border-white/5" label="Email" wire:model="email" placeholder="Your email address" name="email" data-flux-control="" data-flux-group-target="" aria-labelledby="lofi-label-0682fa85e0de7">
+
+            
+            
+            
+            
+            
+                    </div>
+
+        <div aria-live="assertive" class="mt-3 text-sm font-medium text-red-500 dark:text-red-400 hidden" data-flux-error="">
+    </div>
+</ui-field>
+
+        <ui-field class="min-w-0 [&amp;:not(:has([data-flux-field])):has([data-flux-control][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-radio-group][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-checkbox-group][disabled])&gt;[data-flux-label]]:opacity-50 block [&amp;&gt;[data-flux-label]]:mb-3 [&amp;&gt;[data-flux-label]:has(+[data-flux-description])]:mb-2 [&amp;&gt;[data-flux-label]+[data-flux-description]]:mt-0 [&amp;&gt;[data-flux-label]+[data-flux-description]]:mb-3 [&amp;&gt;*:not([data-flux-label])+[data-flux-description]]:mt-3" data-flux-field="">
+    <ui-label class="text-sm font-medium select-none text-zinc-800 dark:text-white" data-flux-label="" id="lofi-label-982aa255a8488" aria-hidden="true">
+    Message
+
+    
+    </ui-label>
+        
+        
+        <textarea class="block p-3 w-full shadow-sm disabled:shadow-none border rounded-lg bg-white dark:bg-white/10 dark:disabled:bg-white/[7%] resize-y text-sm text-zinc-700 disabled:text-zinc-500 placeholder-zinc-400 disabled:placeholder-zinc-400/70 dark:text-zinc-300 dark:disabled:text-zinc-400 dark:placeholder-zinc-400 dark:disabled:placeholder-zinc-500 border-zinc-200 border-b-zinc-300/80 dark:border-white/10" label="Message" placeholder="Your message" wire:model="message" rows="4" style="resize: vertical; " name="message" data-flux-control="" data-flux-textarea="" aria-labelledby="lofi-label-982aa255a8488"></textarea>
+
+        <div aria-live="assertive" class="mt-3 text-sm font-medium text-red-500 dark:text-red-400 hidden" data-flux-error="">
+    </div>
+</ui-field>
+
+        <div class="flex">
+            <div class="flex-1" data-flux-spacer=""></div>
+            <button type="submit" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg px-4 inline-flex  bg-zinc-800 hover:bg-zinc-900 dark:bg-white dark:hover:bg-zinc-100 text-white dark:text-zinc-800  shadow-[inset_0px_1px_theme(colors.zinc.900),inset_0px_2px_theme(colors.white/.15)] dark:shadow-none [[data-flux-button-group]_&amp;]:border-r [:is([data-flux-button-group]&gt;&amp;:last-child,_[data-flux-button-group]_:last-child&gt;&amp;)]:border-r-0 [[data-flux-button-group]_&amp;]:border-black [[data-flux-button-group]_&amp;]:dark:border-zinc-900/25 *:transition-opacity [&amp;[disabled]&gt;:not([data-flux-loading-indicator])]:opacity-0 [&amp;[disabled]&gt;[data-flux-loading-indicator]]:opacity-100 [&amp;[disabled]]:pointer-events-none" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target">
+        <div class="absolute inset-0 flex items-center justify-center opacity-0" data-flux-loading-indicator="">
+                <svg class="shrink-0 [:where(&amp;)]:size-4 animate-spin" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true" data-slot="icon">
+    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+</svg>
+                    </div>
+        
+        
+                    
+            <span>Send</span>
+    </button>
+        </div>
+    </form>
+
+                    
+            <div class="absolute top-0 right-0 mt-4 mr-4 [&amp;[hidden]]:block" hidden="">
+                <ui-close data-flux-modal-close="">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md w-8 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white     !text-zinc-400 hover:!text-zinc-800 dark:!text-zinc-500 dark:hover:!text-white" data-flux-button="data-flux-button" alt="Close modal">
+        <svg class="shrink-0 [:where(&amp;)]:size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M6.28 5.22a.75.75 0 0 0-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 1 0 1.06 1.06L10 11.06l3.72 3.72a.75.75 0 1 0 1.06-1.06L11.06 10l3.72-3.72a.75.75 0 0 0-1.06-1.06L10 8.94 6.28 5.22Z"></path>
+</svg>
+    </button>
+</ui-close>
+            </div>
+            </dialog>
+</ui-modal>
+    <div class="mx-auto max-w-[90rem]" x-data="{
+        size: localStorage.getItem(&#39;svg_size&#39;) || 24,
+        stroke: localStorage.getItem(&#39;svg_stroke&#39;) || 2,
+        show_copy: localStorage.getItem(&#39;show_copy_button&#39;) === &#39;true&#39; || localStorage.getItem(&#39;show_copy_button&#39;) === null,
+        show_tooltips: localStorage.getItem(&#39;show_tooltips&#39;) === &#39;true&#39; || localStorage.getItem(&#39;show_tooltips&#39;) === null,
+        show_titles: localStorage.getItem(&#39;show_titles&#39;) === &#39;true&#39; || localStorage.getItem(&#39;show_titles&#39;) === null,
+        show_sidebar: localStorage.getItem(&#39;show_sidebar&#39;) === &#39;true&#39; || localStorage.getItem(&#39;show_sidebar&#39;) === null
+    }" x-init="$watch(&#39;size&#39;, value =&gt; localStorage.setItem(&#39;svg_size&#39;, value));
+    $watch(&#39;stroke&#39;, value =&gt; localStorage.setItem(&#39;svg_stroke&#39;, value));
+    $watch(&#39;show_copy&#39;, value =&gt; localStorage.setItem(&#39;show_copy_button&#39;, value));
+    $watch(&#39;show_tooltips&#39;, value =&gt; {
+        localStorage.setItem(&#39;show_tooltips&#39;, value);
+        const tooltips = document.querySelectorAll(&#39;[role=tooltip]&#39;);
+        tooltips.forEach(tooltip =&gt; {
+            tooltip.style.display = value ? &#39;&#39; : &#39;none&#39;;
+        });
+    });
+    $watch(&#39;show_titles&#39;, value =&gt; localStorage.setItem(&#39;show_titles&#39;, value));
+    $watch(&#39;show_sidebar&#39;, value =&gt; localStorage.setItem(&#39;show_sidebar&#39;, value));">
+        <div class="z-10 fixed inset-0 bg-black/10 hidden [[data-show-stashed-sidebar]_&amp;]:block lg:[[data-show-stashed-sidebar]_&amp;]:hidden" x-data="" x-on:click="document.body.removeAttribute(&#39;data-show-stashed-sidebar&#39;)"></div>
+
+<div class="[grid-area:sidebar] z-[1] flex flex-col gap-4 [:where(&amp;)]:w-64 p-4 max-lg:[&amp;[data-mobile-cloak]]:hidden [[data-show-stashed-sidebar]_&amp;]:!translate-x-0 lg:!translate-x-0 !z-20 data-[stashed]:!left-0 data-[stashed]:!fixed data-[stashed]:!top-0 data-[stashed]:!min-h-dvh data-[stashed]:!max-h-dvh max-h-dvh overflow-y-auto overscroll-contain border-r bg-zinc-50 dark:bg-zinc-900 border-zinc-200 dark:border-zinc-700 transition-transform" x-bind:data-stashed="! screenLg" x-resize.document="screenLg = window.innerWidth &gt;= 1024" x-init="$el.style.transform = &#39;translateX(-100%)&#39;; $el.removeAttribute(&#39;data-mobile-cloak&#39;); $el.classList.add(&#39;transition-transform&#39;)" x-bind:style="{ position: &#39;sticky&#39;, top: $el.offsetTop + &#39;px&#39;, &#39;max-height&#39;: &#39;calc(100dvh - &#39; + $el.offsetTop + &#39;px)&#39; }" x-show="show_sidebar" x-data="{ screenLg: window.innerWidth &gt;= 1024 }" data-flux-sidebar="" style="position: sticky; top: 57px; max-height: calc(-57px + 100dvh); transform: translateX(-100%);">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg w-10 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-400 hover:text-zinc-800 dark:text-zinc-400 dark:hover:text-white     shrink-0 lg:hidden" data-flux-button="data-flux-button" x-data="" x-on:click="document.body.hasAttribute(&#39;data-show-stashed-sidebar&#39;) ? document.body.removeAttribute(&#39;data-show-stashed-sidebar&#39;) : document.body.setAttribute(&#39;data-show-stashed-sidebar&#39;, &#39;&#39;)" data-flux-sidebar-toggle="data-flux-sidebar-toggle" aria-label="Toggle sidebar">
+        <svg class="shrink-0 [:where(&amp;)]:size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M6.28 5.22a.75.75 0 0 0-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 1 0 1.06 1.06L10 11.06l3.72 3.72a.75.75 0 1 0 1.06-1.06L11.06 10l3.72-3.72a.75.75 0 0 0-1.06-1.06L10 8.94 6.28 5.22Z"></path>
+</svg>
+    </button>
+
+    <nav wire:snapshot="{&quot;data&quot;:{&quot;stroke&quot;:&quot;2&quot;,&quot;size&quot;:&quot;24&quot;,&quot;categories&quot;:[null,{&quot;keys&quot;:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],&quot;class&quot;:&quot;Illuminate\\Database\\Eloquent\\Collection&quot;,&quot;modelClass&quot;:&quot;App\\Models\\Svg&quot;,&quot;s&quot;:&quot;elcln&quot;}]},&quot;memo&quot;:{&quot;id&quot;:&quot;Dqj7sfXH3kBVpzuIFBTC&quot;,&quot;name&quot;:&quot;volt-anonymous-fragment-eyJuYW1lIjoic2lkZWJhciIsInBhdGgiOiJyZXNvdXJjZXNcL3ZpZXdzXC9jb21wb25lbnRzXC91aVwvYXBwXC9zaWRlYmFyLmJsYWRlLnBocCJ9&quot;,&quot;path&quot;:&quot;icon\/screen-share&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;en&quot;},&quot;checksum&quot;:&quot;13825163ec03221daa78a475e6412574ec8c1eff4fc33678c165777dd937f927&quot;}" wire:effects="[]" wire:id="Dqj7sfXH3kBVpzuIFBTC" class="flex flex-col overflow-visible min-h-auto" data-flux-navlist="">
+    <div class="p-6 rounded-xl bg-white dark:bg-white/10 border border-zinc-200 dark:border-white/10 space-y-6 h-[226px]" data-flux-card="">
+    <div class="space-y-4">
+                    <div class="flex items-center justify-between">
+                        <div class="text-sm font-semibold">Stroke</div>
+                        <div class="text-sm" x-text="stroke">2</div>
+                    </div>
+                    
+
+                    <div class="flex items-center justify-between w-full space-x-1">
+                        <input type="range" min="0.5" max="3" value="2" step="0.25" x-model="stroke" class="block w-full range">
+                    </div>
+                    
+                </div>
+                <div class="space-y-4">
+                    <div class="flex items-center justify-between mt-12">
+                        <div class="text-sm font-semibold">Size</div>
+                        <div class="text-sm" x-text="size">24</div>
+                    </div>
+                    
+                    <div class="flex items-center justify-between w-full space-x-1">
+                        <input type="range" min="16" max="48" step="4" x-model="size" class="block w-full range">
+                    </div>
+                </div>
+                <div class="flex justify-end h-6">
+                    <div class="text-sm cursor-pointer" @click="size = 24; stroke = 2;">Reset
+                    </div>
+                </div>
+</div>
+
+            <div class="pt-6" wire:ignore="">
+                <a href="https://tablericons.com/" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">All Icons</div>
+    </a>
+                <div class="block space-y-[2px] hidden mt-2 lg:grid">
+        <div class="px-3 py-2">
+            <div class="text-sm text-zinc-400 font-medium leading-none">Categories</div>
+        </div>
+
+        <div>
+            <!--[if BLOCK]><![endif]-->                        <a href="https://tablericons.com/category/Animals" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Animals</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">11</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Arrows" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Arrows</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">311</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Badges" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Badges</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">13</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Brand" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Brand</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">367</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Buildings" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Buildings</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">69</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Charts" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Charts</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">31</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Communication" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Communication</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">105</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Computers" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Computers</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">34</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Currencies" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Currencies</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">66</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Database" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Database</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">42</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Design" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Design</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">238</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Development" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Development</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">25</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Devices" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Devices</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">342</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Document" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Document</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">182</span>
+    </a>
+                                            <a href="https://tablericons.com/category/E-commerce" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">E-commerce</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">60</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Electrical" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Electrical</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">19</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Extensions" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Extensions</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">13</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Food" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Food</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">72</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Games" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Games</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">13</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Gender" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Gender</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">18</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Gestures" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Gestures</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">13</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Health" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Health</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">68</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Laundry" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Laundry</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">40</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Letters" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Letters</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">212</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Logic" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Logic</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">8</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Map" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Map</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">180</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Maps" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Maps</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">1</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Math" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Math</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">79</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Media" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Media</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">126</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Miscellaneous" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Miscellaneous</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">1641</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Mood" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Mood</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">47</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Nature" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Nature</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">28</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Numbers" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Numbers</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">194</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Photography" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Photography</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">41</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Shapes" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Shapes</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">134</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Sport" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Sport</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">63</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Symbols" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Symbols</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">34</span>
+    </a>
+                                            <a href="https://tablericons.com/category/System" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">System</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">406</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Text" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Text</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">160</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Vehicles" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Vehicles</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">76</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Version%20control" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Version control</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">10</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Weather" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Weather</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">60</span>
+    </a>
+                                            <a href="https://tablericons.com/category/Zodiac" class="h-10 lg:h-8 relative flex items-center gap-3 rounded-lg  py-0 text-left w-full px-3 my-px border-zinc-200 text-zinc-500 dark:text-white/80 hover:text-zinc-800 hover:dark:text-white hover:bg-zinc-100 hover:dark:bg-white/10 data-[current]:text-zinc-800 data-[current]:dark:text-zinc-100 data-[current]:bg-white data-[current]:dark:bg-white/10 data-[current]:border data-[current]:border-zinc-200 data-[current]:dark:border-white/10 data-[current]:shadow-sm" data-flux-navlist-item="data-flux-navlist-item" data-pan="sidebar-catogory">
+        <div class="flex-1 text-sm font-medium leading-none whitespace-nowrap [[data-nav-footer]_&amp;]:hidden [[data-nav-sidebar]_[data-nav-footer]_&amp;]:block" data-content="">Zodiac</div>
+    
+    
+            <span class="text-xs font-medium rounded px-1 py-0.5 text-zinc-700 dark:text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40">12</span>
+    </a>
+                    <!--[if ENDBLOCK]><![endif]-->
+        </div>
+    </div>
+
+            </div>
+</nav>
+    
+    <div class="flex-1" data-flux-spacer=""></div>
+</div>
+
+
+        <div class="[grid-area:main] p-6 lg:p-8 [[data-flux-container]_&amp;]:px-0" data-flux-main="">
+    <div wire:id="TJzU4mhx5bnZwVdLdCYs" class="container">
+                <div class="flex justify-between">
+                    <div class="flex" wire:ignore="" data-flux-breadcrumbs="">
+    <div class="flex items-center text-sm font-medium group/breadcrumb" data-flux-breadcrumbs-item="">
+            <a class="text-zinc-800 dark:text-white hover:underline decoration-zinc-800/20 underline-offset-4" href="https://tablericons.com/">
+                            All Icons
+                    </a>
+    
+    <svg class="shrink-0 [:where(&amp;)]:size-5 mx-1 text-zinc-300 dark:text-white/80 group-last/breadcrumb:hidden" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path fill-rule="evenodd" d="M12.528 3.047a.75.75 0 0 1 .449.961L8.433 16.504a.75.75 0 1 1-1.41-.512l4.544-12.496a.75.75 0 0 1 .961-.449Z" clip-rule="evenodd"></path>
+</svg>
+
+        </div>
+                        <div class="flex items-center text-sm font-medium group/breadcrumb" data-flux-breadcrumbs-item="">
+            <a class="text-zinc-800 dark:text-white hover:underline decoration-zinc-800/20 underline-offset-4" href="https://tablericons.com/category/Devices">
+                            Devices
+                    </a>
+    
+    <svg class="shrink-0 [:where(&amp;)]:size-5 mx-1 text-zinc-300 dark:text-white/80 group-last/breadcrumb:hidden" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path fill-rule="evenodd" d="M12.528 3.047a.75.75 0 0 1 .449.961L8.433 16.504a.75.75 0 1 1-1.41-.512l4.544-12.496a.75.75 0 0 1 .961-.449Z" clip-rule="evenodd"></path>
+</svg>
+
+        </div>
+</div>
+                    <div>
+                        <ui-tooltip position="top center" data-flux-tooltip="">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg px-4 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" wire:click="toggleFavorite()" data-pan="btn-favorite" aria-describedby="lofi-tooltip-16d213d92ca31">
+        <div class="flex items-center space-x-2">
+                                    <svg class="shrink-0 [:where(&amp;)]:size-6 text-amber-500 dark:text-amber-300" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"></path>
+</svg>
+
+                                            <span>Favorite</span>
+                                </div>
+    </button>
+
+            <div popover="manual" class="relative py-2 px-2.5 rounded-md text-xs text-white font-medium bg-zinc-800 dark:bg-zinc-700 dark:border dark:border-white/10 p-0 overflow-visible" data-flux-tooltip-content="" id="lofi-tooltip-16d213d92ca31" aria-hidden="true" role="tooltip" style="position: absolute; inset: 84px auto auto 1132.76px;">
+    Save this icon to your favorites
+
+    </div>
+    </ui-tooltip>
+                    </div>
+                </div>
+                <div class="flex flex-col gap-8 mt-6 md:flex-row">
+                    <div class="flex justify-center">
+                        <div class="flex flex-col space-y-6 w-60">
+                            <div class="w-[240px] h-[240px] bg-gray-100 relative" id="icon-preview">
+                                <svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2">
+  <path d="M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"></path>
+  <path d="M7 20l10 0"></path>
+  <path d="M9 16l0 4"></path>
+  <path d="M15 16l0 4"></path>
+  <path d="M17 4h4v4"></path>
+  <path d="M16 9l5 -5"></path>
+</svg>
+
+                                
+                            </div>
+                            <div class="flex justify-between space-x-3">
+                                <div class="h-[48px] w-[48px] bg-gray-100  flex justify-center items-center rounded-md">
+                                    <ui-tooltip position="top center" data-flux-tooltip="">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-labelledby="lofi-tooltip-3257158d677bc">
+  <path d="M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"></path>
+  <path d="M7 20l10 0"></path>
+  <path d="M9 16l0 4"></path>
+  <path d="M15 16l0 4"></path>
+  <path d="M17 4h4v4"></path>
+  <path d="M16 9l5 -5"></path>
+</svg>
+
+            <div popover="manual" class="relative py-2 px-2.5 rounded-md text-xs text-white font-medium bg-zinc-800 dark:bg-zinc-700 dark:border dark:border-white/10 p-0 overflow-visible" data-flux-tooltip-content="" id="lofi-tooltip-3257158d677bc" aria-hidden="true" role="tooltip">
+    48x48 pixels
+
+    </div>
+    </ui-tooltip>
+                                </div>
+                                <div class="h-[48px] w-[48px] bg-gray-100  flex justify-center items-center rounded-md">
+                                    <ui-tooltip position="top center" data-flux-tooltip="">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-labelledby="lofi-tooltip-0cc75c5084909">
+  <path d="M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"></path>
+  <path d="M7 20l10 0"></path>
+  <path d="M9 16l0 4"></path>
+  <path d="M15 16l0 4"></path>
+  <path d="M17 4h4v4"></path>
+  <path d="M16 9l5 -5"></path>
+</svg>
+
+            <div popover="manual" class="relative py-2 px-2.5 rounded-md text-xs text-white font-medium bg-zinc-800 dark:bg-zinc-700 dark:border dark:border-white/10 p-0 overflow-visible" data-flux-tooltip-content="" id="lofi-tooltip-0cc75c5084909" aria-hidden="true" role="tooltip">
+    32x32 pixels
+
+    </div>
+    </ui-tooltip>
+                                </div>
+                                <div class="h-[48px] w-[48px] bg-gray-100 flex justify-center items-center rounded-md">
+                                    <ui-tooltip position="top center" data-flux-tooltip="">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-labelledby="lofi-tooltip-baa2ad0865f73">
+  <path d="M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"></path>
+  <path d="M7 20l10 0"></path>
+  <path d="M9 16l0 4"></path>
+  <path d="M15 16l0 4"></path>
+  <path d="M17 4h4v4"></path>
+  <path d="M16 9l5 -5"></path>
+</svg>
+
+            <div popover="manual" class="relative py-2 px-2.5 rounded-md text-xs text-white font-medium bg-zinc-800 dark:bg-zinc-700 dark:border dark:border-white/10 p-0 overflow-visible" data-flux-tooltip-content="" id="lofi-tooltip-baa2ad0865f73" aria-hidden="true" role="tooltip">
+    24x24 pixels
+
+    </div>
+    </ui-tooltip>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    <div class="flex-1">
+                        <div class="flex justify-between w-full">
+                            <h1>
+                                <div class="font-medium text-zinc-800 dark:text-white text-2xl [&amp;:has(+[data-flux-subheading])]:mb-2 [[data-flux-subheading]+&amp;]:mt-2" data-flux-heading="">screen-share</div>
+                            </h1>
+                        </div>
+                        <div class="flex mt-2 space-x-3">
+                            <!--[if BLOCK]><![endif]-->                                <div data-flux-badge="data-flux-badge" class="inline-flex items-center font-medium whitespace-nowrap  [print-color-adjust:exact] text-sm py-1 [&amp;_[data-flux-badge-icon]]:mr-1.5 rounded-md px-2 text-zinc-700 [&amp;_button]:!text-zinc-700 dark:text-zinc-200 [&amp;_button]:dark:!text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40 [&amp;:is(button)]:hover:bg-zinc-400/25 [&amp;:is(button)]:hover:dark:bg-zinc-400/50">
+        tv
+    </div>
+                                                            <div data-flux-badge="data-flux-badge" class="inline-flex items-center font-medium whitespace-nowrap  [print-color-adjust:exact] text-sm py-1 [&amp;_[data-flux-badge-icon]]:mr-1.5 rounded-md px-2 text-zinc-700 [&amp;_button]:!text-zinc-700 dark:text-zinc-200 [&amp;_button]:dark:!text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40 [&amp;:is(button)]:hover:bg-zinc-400/25 [&amp;:is(button)]:hover:dark:bg-zinc-400/50">
+        online
+    </div>
+                                                            <div data-flux-badge="data-flux-badge" class="inline-flex items-center font-medium whitespace-nowrap  [print-color-adjust:exact] text-sm py-1 [&amp;_[data-flux-badge-icon]]:mr-1.5 rounded-md px-2 text-zinc-700 [&amp;_button]:!text-zinc-700 dark:text-zinc-200 [&amp;_button]:dark:!text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40 [&amp;:is(button)]:hover:bg-zinc-400/25 [&amp;:is(button)]:hover:dark:bg-zinc-400/50">
+        stream
+    </div>
+                                                            <div data-flux-badge="data-flux-badge" class="inline-flex items-center font-medium whitespace-nowrap  [print-color-adjust:exact] text-sm py-1 [&amp;_[data-flux-badge-icon]]:mr-1.5 rounded-md px-2 text-zinc-700 [&amp;_button]:!text-zinc-700 dark:text-zinc-200 [&amp;_button]:dark:!text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40 [&amp;:is(button)]:hover:bg-zinc-400/25 [&amp;:is(button)]:hover:dark:bg-zinc-400/50">
+        mirroring
+    </div>
+                                                            <div data-flux-badge="data-flux-badge" class="inline-flex items-center font-medium whitespace-nowrap  [print-color-adjust:exact] text-sm py-1 [&amp;_[data-flux-badge-icon]]:mr-1.5 rounded-md px-2 text-zinc-700 [&amp;_button]:!text-zinc-700 dark:text-zinc-200 [&amp;_button]:dark:!text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40 [&amp;:is(button)]:hover:bg-zinc-400/25 [&amp;:is(button)]:hover:dark:bg-zinc-400/50">
+        monitor
+    </div>
+                                                            <div data-flux-badge="data-flux-badge" class="inline-flex items-center font-medium whitespace-nowrap  [print-color-adjust:exact] text-sm py-1 [&amp;_[data-flux-badge-icon]]:mr-1.5 rounded-md px-2 text-zinc-700 [&amp;_button]:!text-zinc-700 dark:text-zinc-200 [&amp;_button]:dark:!text-zinc-200 bg-zinc-400/15 dark:bg-zinc-400/40 [&amp;:is(button)]:hover:bg-zinc-400/25 [&amp;:is(button)]:hover:dark:bg-zinc-400/50">
+        cast
+    </div>
+                            <!--[if ENDBLOCK]><![endif]-->
+                        </div>
+
+                        <div class="flex mt-12 space-x-4" x-data="{ svgContent: $wire.entangle(&#39;icon_content_4copy&#39;) }" data-has-alpine-state="true">
+                            
+                            <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg px-4 inline-flex  bg-zinc-800/5 hover:bg-zinc-800/10 dark:bg-white/10 dark:hover:bg-white/20 text-zinc-800 dark:text-white   [[data-flux-button-group]_&amp;]:border-r [:is([data-flux-button-group]&gt;&amp;:last-child,_[data-flux-button-group]_:last-child&gt;&amp;)]:border-r-0 [[data-flux-button-group]_&amp;]:border-zinc-200/80 [[data-flux-button-group]_&amp;]:dark:border-zinc-900/50  !rounded-full" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" data-pan="btn-copy-svg" @click="$clipboard(sanitizeCode(&#39;svg_pure&#39;)); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path fill-rule="evenodd" d="M10.986 3H12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h1.014A2.25 2.25 0 0 1 7.25 1h1.5a2.25 2.25 0 0 1 2.236 2ZM9.5 4v-.75a.75.75 0 0 0-.75-.75h-1.5a.75.75 0 0 0-.75.75V4h3Z" clip-rule="evenodd"></path>
+</svg>
+
+                
+                    Copy
+                                SVG
+    </button>
+                            <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-10 text-sm rounded-lg px-4 inline-flex  bg-zinc-800/5 hover:bg-zinc-800/10 dark:bg-white/10 dark:hover:bg-white/20 text-zinc-800 dark:text-white   [[data-flux-button-group]_&amp;]:border-r [:is([data-flux-button-group]&gt;&amp;:last-child,_[data-flux-button-group]_:last-child&gt;&amp;)]:border-r-0 [[data-flux-button-group]_&amp;]:border-zinc-200/80 [[data-flux-button-group]_&amp;]:dark:border-zinc-900/50  !rounded-full" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" data-pan="btn-download-svg" @click="forceDownloadSVG(&#39;screen-share.svg&#39;,sanitizeCode(&#39;svg_pure&#39;))">
+        <svg class="shrink-0 [:where(&amp;)]:size-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M8.75 2.75a.75.75 0 0 0-1.5 0v5.69L5.03 6.22a.75.75 0 0 0-1.06 1.06l3.5 3.5a.75.75 0 0 0 1.06 0l3.5-3.5a.75.75 0 0 0-1.06-1.06L8.75 8.44V2.75Z"></path>
+  <path d="M3.5 9.75a.75.75 0 0 0-1.5 0v1.5A2.75 2.75 0 0 0 4.75 14h6.5A2.75 2.75 0 0 0 14 11.25v-1.5a.75.75 0 0 0-1.5 0v1.5c0 .69-.56 1.25-1.25 1.25h-6.5c-.69 0-1.25-.56-1.25-1.25v-1.5Z"></path>
+</svg>
+
+                
+                    Download
+                                SVG
+    </button>
+                        </div>
+                        <ui-tab-group class="block mt-6" data-flux-tab-group="">
+    <ui-tabs class="flex gap-4 h-10 border-b border-zinc-800/10 dark:border-white/20" data-flux-tabs="" role="tablist">
+    <button type="button" class="flex whitespace-nowrap gap-2 items-center px-2 -mb-px border-b-[2px] border-transparent data-[selected]:border-zinc-800 data-[selected]:dark:border-white text-sm font-medium text-zinc-400 hover:text-zinc-800 dark:hover:text-white dark:text-white/50 data-[selected]:text-zinc-800 data-[selected]:dark:text-white [&amp;[disabled]]:opacity-50 dark:[&amp;[disabled]]:opacity-75 [&amp;[disabled]]:cursor-default [&amp;[disabled]]:pointer-events-none" data-flux-tab="data-flux-tab" name="svg" wire:key="svg" data-pan="tab-code-svg" id="lofi-tab-03c888c02e521" aria-controls="lofi-tab-panel-df54670c9b79d" data-selected="" data-active="" tabindex="0" aria-selected="true" role="tab">
+        SVG Code
+    </button>
+                                <button type="button" class="flex whitespace-nowrap gap-2 items-center px-2 -mb-px border-b-[2px] border-transparent data-[selected]:border-zinc-800 data-[selected]:dark:border-white text-sm font-medium text-zinc-400 hover:text-zinc-800 dark:hover:text-white dark:text-white/50 data-[selected]:text-zinc-800 data-[selected]:dark:text-white [&amp;[disabled]]:opacity-50 dark:[&amp;[disabled]]:opacity-75 [&amp;[disabled]]:cursor-default [&amp;[disabled]]:pointer-events-none" data-flux-tab="data-flux-tab" name="jsx" wire:key="jsx" data-pan="tab-code-jsx" id="lofi-tab-0032886965475" aria-controls="lofi-tab-panel-ea5f003bb61a9" tabindex="-1" aria-selected="false" role="tab">
+        JSX
+    </button>
+                                <button type="button" class="flex whitespace-nowrap gap-2 items-center px-2 -mb-px border-b-[2px] border-transparent data-[selected]:border-zinc-800 data-[selected]:dark:border-white text-sm font-medium text-zinc-400 hover:text-zinc-800 dark:hover:text-white dark:text-white/50 data-[selected]:text-zinc-800 data-[selected]:dark:text-white [&amp;[disabled]]:opacity-50 dark:[&amp;[disabled]]:opacity-75 [&amp;[disabled]]:cursor-default [&amp;[disabled]]:pointer-events-none" data-flux-tab="data-flux-tab" name="uri" wire:key="uri" data-pan="tab-code-uri" id="lofi-tab-f6e9cfea279d7" aria-controls="lofi-tab-panel-21cc8e298fe74" tabindex="-1" aria-selected="false" role="tab">
+        Data URI
+    </button>
+                                <button type="button" class="flex whitespace-nowrap gap-2 items-center px-2 -mb-px border-b-[2px] border-transparent data-[selected]:border-zinc-800 data-[selected]:dark:border-white text-sm font-medium text-zinc-400 hover:text-zinc-800 dark:hover:text-white dark:text-white/50 data-[selected]:text-zinc-800 data-[selected]:dark:text-white [&amp;[disabled]]:opacity-50 dark:[&amp;[disabled]]:opacity-75 [&amp;[disabled]]:cursor-default [&amp;[disabled]]:pointer-events-none" data-flux-tab="data-flux-tab" name="react" wire:key="react" data-pan="tab-code-react" id="lofi-tab-84f59ce45d406" aria-controls="lofi-tab-panel-c1de70149b378" tabindex="-1" aria-selected="false" role="tab">
+        React
+    </button>
+                                <button type="button" class="flex whitespace-nowrap gap-2 items-center px-2 -mb-px border-b-[2px] border-transparent data-[selected]:border-zinc-800 data-[selected]:dark:border-white text-sm font-medium text-zinc-400 hover:text-zinc-800 dark:hover:text-white dark:text-white/50 data-[selected]:text-zinc-800 data-[selected]:dark:text-white [&amp;[disabled]]:opacity-50 dark:[&amp;[disabled]]:opacity-75 [&amp;[disabled]]:cursor-default [&amp;[disabled]]:pointer-events-none" data-flux-tab="data-flux-tab" name="vue" wire:key="vue" data-pan="tab-code-vue" id="lofi-tab-c6183f6808aa9" aria-controls="lofi-tab-panel-549729690b4ed" tabindex="-1" aria-selected="false" role="tab">
+        Vue
+    </button>
+                                <button type="button" class="flex whitespace-nowrap gap-2 items-center px-2 -mb-px border-b-[2px] border-transparent data-[selected]:border-zinc-800 data-[selected]:dark:border-white text-sm font-medium text-zinc-400 hover:text-zinc-800 dark:hover:text-white dark:text-white/50 data-[selected]:text-zinc-800 data-[selected]:dark:text-white [&amp;[disabled]]:opacity-50 dark:[&amp;[disabled]]:opacity-75 [&amp;[disabled]]:cursor-default [&amp;[disabled]]:pointer-events-none" data-flux-tab="data-flux-tab" name="webfont" wire:key="webfont" data-pan="tab-code-webfont" id="lofi-tab-0c94829cf200a" aria-controls="lofi-tab-panel-3748b94403551" tabindex="-1" aria-selected="false" role="tab">
+        WebFont
+    </button>
+</ui-tabs>
+
+                            <div class="[&amp;:not([data-selected])]:hidden pt-8 p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" name="svg" wire:key="svg" x-data="{ svg_pure: $wire.entangle(&#39;svg_pure&#39;) }" x-init="$watch(&#39;svg_pure&#39;, value =&gt; console.log(&#39;asdsa&#39;, svg_pure));" data-flux-tab-panel="" id="lofi-tab-panel-df54670c9b79d" data-has-alpine-state="true" aria-labelledby="lofi-tab-03c888c02e521" data-selected="" tabindex="0" role="tabpanel">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute top-2 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(sanitizeCode(&#39;svg_pure&#39;)); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                <div class="hidden" id="svg_pure"><svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2"> <path d="M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"></path> <path d="M7 20l10 0"></path> <path d="M9 16l0 4"></path> <path d="M15 16l0 4"></path> <path d="M17 4h4v4"></path> <path d="M16 9l5 -5"></path> </svg> </div>
+                                <pre class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color:#E1E4E8">&lt;</span><span style="color:#85E89D">svg</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">xmlns</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"http://www.w3.org/2000/svg"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">width</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"24"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">height</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"24"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">viewBox</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"0 0 24 24"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">fill</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"none"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">stroke</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"currentColor"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">stroke-width</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"2"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">stroke-linecap</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"round"</span></span>
+<span class="line"><span style="color:#E1E4E8">  </span><span style="color:#B392F0">stroke-linejoin</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"round"</span></span>
+<span class="line"><span style="color:#E1E4E8">&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8">  &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"</span><span style="color:#E1E4E8"> /&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8">  &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M7 20l10 0"</span><span style="color:#E1E4E8"> /&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8">  &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M9 16l0 4"</span><span style="color:#E1E4E8"> /&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8">  &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M15 16l0 4"</span><span style="color:#E1E4E8"> /&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8">  &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M17 4h4v4"</span><span style="color:#E1E4E8"> /&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8">  &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M16 9l5 -5"</span><span style="color:#E1E4E8"> /&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8">&lt;/</span><span style="color:#85E89D">svg</span><span style="color:#E1E4E8">&gt;</span></span>
+<span class="line"></span></code></pre>
+</div>
+                            <div class="[&amp;:not([data-selected])]:hidden pt-8 p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" name="jsx" wire:key="jsx" x-data="{ jsx_pure: $wire.entangle(&#39;jsx_pure&#39;) }" data-flux-tab-panel="" id="lofi-tab-panel-ea5f003bb61a9" data-has-alpine-state="true" aria-labelledby="lofi-tab-0032886965475" tabindex="-1" role="tabpanel">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute top-2 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="console.log(jsx_pure); $clipboard(sanitizeCode(&#39;jsx_pure&#39;)); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                <div class="hidden" id="jsx_pure"><svg xmlns="http://www.w3.org/2000/svg" x-bind:width="`{${size}}`" x-bind:height="`{${size}}`" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:strokewidth="`{${stroke}}`" strokelinecap="round" strokelinejoin="round" width="{24}" height="{24}" strokewidth="{2}"> <path d="M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"></path> <path d="M7 20l10 0"></path> <path d="M9 16l0 4"></path> <path d="M15 16l0 4"></path> <path d="M17 4h4v4"></path> <path d="M16 9l5 -5"></path> </svg> </div>
+                                <pre class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color:#E1E4E8">&lt;</span><span style="color:#85E89D">svg</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">xmlns</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"http://www.w3.org/2000/svg"</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">width</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">{24}</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">height</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">{24}</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">viewBox</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"0 0 24 24"</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">fill</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"none"</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">stroke</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"currentColor"</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">strokeWidth</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">{2}</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">strokeLinecap</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"round"</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">strokeLinejoin</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"round"</span><span style="color:#E1E4E8"> &gt; &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M21 12v3a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h9"</span><span style="color:#E1E4E8"> /&gt; &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M7 20l10 0"</span><span style="color:#E1E4E8"> /&gt; &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M9 16l0 4"</span><span style="color:#E1E4E8"> /&gt; &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M15 16l0 4"</span><span style="color:#E1E4E8"> /&gt; &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M17 4h4v4"</span><span style="color:#E1E4E8"> /&gt; &lt;</span><span style="color:#85E89D">path</span><span style="color:#E1E4E8"> </span><span style="color:#B392F0">d</span><span style="color:#E1E4E8">=</span><span style="color:#9ECBFF">"M16 9l5 -5"</span><span style="color:#E1E4E8"> /&gt; &lt;/</span><span style="color:#85E89D">svg</span><span style="color:#E1E4E8">&gt; </span></span></code></pre>
+</div>
+                            <div class="[&amp;:not([data-selected])]:hidden pt-8 p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" name="uri" wire:key="uri" x-data="{ datauri_pure: $wire.entangle(&#39;datauri_pure&#39;) }" data-flux-tab-panel="" id="lofi-tab-panel-21cc8e298fe74" data-has-alpine-state="true" aria-labelledby="lofi-tab-f6e9cfea279d7" tabindex="-1" role="tabpanel">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute top-2 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(datauri_pure); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                
+                                <pre class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color: #E1E4E8">data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M21%2012v3a1%201%200%200%201%20-1%201h-16a1%201%200%200%201%20-1%20-1v-10a1%201%200%200%201%201%20-1h9%22%20%2F%3E%20%3Cpath%20d%3D%22M7%2020l10%200%22%20%2F%3E%20%3Cpath%20d%3D%22M9%2016l0%204%22%20%2F%3E%20%3Cpath%20d%3D%22M15%2016l0%204%22%20%2F%3E%20%3Cpath%20d%3D%22M17%204h4v4%22%20%2F%3E%20%3Cpath%20d%3D%22M16%209l5%20-5%22%20%2F%3E%20%3C%2Fsvg%3E%20</span></span></code></pre>
+</div>
+                            <div class="[&amp;:not([data-selected])]:hidden pt-8 -mt-4 text-xs" name="react" wire:key="react" data-flux-tab-panel="" id="lofi-tab-panel-c1de70149b378" aria-labelledby="lofi-tab-84f59ce45d406" tabindex="-1" role="tabpanel">
+    <div class="p-6 bg-[#24292f] mt-6 text-white text-sm font-mono rounded-md relative" x-data="{ react_1: $wire.entangle(&#39;react_1&#39;) }" data-has-alpine-state="true">
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute bottom-4 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(react_1); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    npm install @tabler/icons-react
+                                </div>
+                                <div class="p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" x-data="{ react_2_pure: $wire.entangle(&#39;react_2_pure&#39;) }" data-has-alpine-state="true">
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute bottom-4 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(react_2_pure); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    
+                                    <pre class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color: #F97583">import</span><span style="color: #E1E4E8"> { IconBadge4k } </span><span style="color: #F97583">from</span><span style="color: #E1E4E8"> </span><span style="color: #9ECBFF">'@tabler/icons-react'</span></span></code></pre>
+                                </div>
+                                <div class="p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" x-data="{ react_3_pure: $wire.entangle(&#39;react_3_pure&#39;) }" data-has-alpine-state="true">
+                                    
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute bottom-4 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(getContent(&#39;vue3&#39;)); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    
+                                    <div class="hidden1" id="vue_3_code"><iconscreenshare x-bind:stroke="`{${stroke}}`" stroke="{2}"></iconscreenshare></div>
+                                    <pre id="vue3" class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color: #E1E4E8">&lt;</span><span style="color: #79B8FF">IconBadge4k</span><span style="color: #E1E4E8"> </span><span style="color: #B392F0">stroke</span><span style="color: #F97583">=</span><span style="color: #E1E4E8">{</span><span style="color: #79B8FF" x-text="`${stroke}`">2</span><span style="color: #E1E4E8">} /&gt;</span></span></code></pre>
+                                </div>
+</div>
+                            <div class="[&amp;:not([data-selected])]:hidden pt-8 relative -mt-4 text-xs rounded-md" name="vue" wire:key="vue" data-flux-tab-panel="" id="lofi-tab-panel-549729690b4ed" aria-labelledby="lofi-tab-c6183f6808aa9" tabindex="-1" role="tabpanel">
+    <div class="p-6 bg-[#24292f] mt-6 text-sm text-white font-mono rounded-md relative" x-data="{ vue_1: $wire.entangle(&#39;vue_1&#39;) }" data-has-alpine-state="true">
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute bottom-4 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(vue_1); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    npm install @tabler/icons-vue
+                                </div>
+                                <div class="p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" x-data="{ vue_2_pure: $wire.entangle(&#39;vue_2_pure&#39;) }" data-has-alpine-state="true">
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute bottom-4 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(vue_2_pure); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    
+                                    <pre class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color: #F97583">import</span><span style="color: #E1E4E8"> { IconBadge4k } </span><span style="color: #F97583">from</span><span style="color: #E1E4E8"> </span><span style="color: #9ECBFF">'@tabler/icons-vue'</span></span></code></pre>
+                                </div>
+                                <div class="p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" x-data="{ vue_3_pure: $wire.entangle(&#39;vue_3_pure&#39;) }" data-has-alpine-state="true">
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute bottom-4 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(getContent(&#39;vue3&#39;)); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    
+                                    <pre id="vue3" class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color: #E1E4E8">&lt;</span><span style="color: #79B8FF">IconBadge4k</span><span style="color: #E1E4E8"> </span><span style="color: #B392F0">stroke</span><span style="color: #F97583">=</span><span style="color: #E1E4E8">{</span><span style="color: #79B8FF" x-text="`${stroke}`">2</span><span style="color: #E1E4E8">} /&gt;</span></span></code></pre>
+                                </div>
+</div>
+
+                            
+                            <div class="[&amp;:not([data-selected])]:hidden pt-8 relative -mt-4 text-xs rounded-md" name="webfont" wire:key="webfont" data-flux-tab-panel="" id="lofi-tab-panel-3748b94403551" aria-labelledby="lofi-tab-0c94829cf200a" tabindex="-1" role="tabpanel">
+    <div class="p-6 bg-[#24292f] mt-6 text-sm text-white font-mono rounded-md relative" x-data="{ webfont_1_pure: $wire.entangle(&#39;webfont_1_pure&#39;) }" data-has-alpine-state="true">
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute top-2 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(webfont_1_pure); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    
+                                    <pre class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color: #E1E4E8">&lt;</span><span style="color: #85E89D">link</span><span style="color: #E1E4E8"> </span><span style="color: #B392F0">rel</span><span style="color: #E1E4E8">=</span><span style="color: #9ECBFF">"stylesheet"</span><span style="color: #E1E4E8"> </span><span style="color: #B392F0">href</span><span style="color: #E1E4E8">=</span><span style="color: #9ECBFF">"https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css"</span><span style="color: #E1E4E8"> /&gt;</span></span></code></pre>
+                                </div>
+                                <div class="p-6 bg-[#24292f] mt-6 text-xs rounded-md relative" x-data="{ webfont_2_pure: $wire.entangle(&#39;webfont_2_pure&#39;) }" data-has-alpine-state="true">
+                                    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md px-3 inline-flex  bg-white hover:bg-zinc-50 dark:bg-zinc-700 dark:hover:bg-zinc-600/75 text-zinc-800 dark:text-white border border-zinc-200 hover:border-zinc-200 border-b-zinc-300/80 dark:border-zinc-600 dark:hover:border-zinc-600 shadow-sm [[data-flux-button-group]_&amp;]:border-l-0 [:is([data-flux-button-group]&gt;&amp;:first-child,_[data-flux-button-group]_:first-child&gt;&amp;)]:border-l-[1px]  !absolute bottom-4 right-2 !px-1" data-flux-button="data-flux-button" data-flux-group-target="data-flux-group-target" @click="$clipboard(webfont_2_pure); $dispatch(&#39;toast&#39;, { title: &#39;Copied to clipboard&#39; })">
+        <svg class="shrink-0 [:where(&amp;)]:size-6 w-4" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"></path>
+</svg>
+    </button>
+                                    
+                                    <pre class="shiki" style="background-color: #24292e"><code><span class="line"><span style="color: #E1E4E8">&lt;</span><span style="color: #85E89D">i</span><span style="color: #E1E4E8"> </span><span style="color: #B392F0">class</span><span style="color: #E1E4E8">=</span><span style="color: #9ECBFF">"ti ti-screen-share&gt;</span><span style="color: #FDAEB7; font-style: italic">&lt;</span><span style="color: #9ECBFF">/i&gt;</span></span></code></pre>
+                                </div>
+</div>
+</ui-tab-group>
+                    </div>
+                </div>
+                
+                <ui-modal data-flux-modal="">
+    
+    <dialog wire:ignore.self="" class="p-6 [:where(&amp;)]:max-w-xl shadow-lg rounded-xl bg-white dark:bg-zinc-800 border border-transparent dark:border-zinc-700 space-y-6 md:w-96" data-modal="settings" x-data="" x-on:modal-show.document="
+                if ($event.detail.name === &#39;settings&#39; &amp;&amp; ($event.detail.scope === &#39;TJzU4mhx5bnZwVdLdCYs&#39;)) $el.showModal();
+                if ($event.detail.name === &#39;settings&#39; &amp;&amp; (! $event.detail.scope)) $el.showModal();
+            " x-on:modal-close.document="
+                if ($event.detail.name === &#39;settings&#39; &amp;&amp; ($event.detail.scope === &#39;TJzU4mhx5bnZwVdLdCYs&#39;)) $el.close();
+                if (! $event.detail.name || ($event.detail.name === &#39;settings&#39; &amp;&amp; (! $event.detail.scope))) $el.close();
+            ">
+        <div>
+        <div class="font-medium text-zinc-800 dark:text-white text-base [&amp;:has(+[data-flux-subheading])]:mb-2 [[data-flux-subheading]+&amp;]:mt-2" data-flux-heading="">Settings</div>
+        <div class="text-sm text-zinc-500 dark:text-white/70" data-flux-subheading="">
+    Make changes to your personal settings.
+</div>
+    </div>
+    <ui-field class="min-w-0 [&amp;:not(:has([data-flux-field])):has([data-flux-control][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-radio-group][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-checkbox-group][disabled])&gt;[data-flux-label]]:opacity-50 grid gap-x-3 gap-y-1.5 has-[[data-flux-label]~[data-flux-control]]:grid-cols-[1fr_auto] has-[[data-flux-control]~[data-flux-label]]:grid-cols-[auto_1fr] [&amp;&gt;[data-flux-control]~[data-flux-description]]:row-start-2 [&amp;&gt;[data-flux-control]~[data-flux-description]]:col-start-2 [&amp;&gt;[data-flux-control]~[data-flux-error]]:col-span-2 [&amp;&gt;[data-flux-control]~[data-flux-error]]:mt-1 [&amp;&gt;[data-flux-label]~[data-flux-control]]:row-start-1 [&amp;&gt;[data-flux-label]~[data-flux-control]]:col-start-2" data-flux-field="">
+    <ui-label class="text-sm font-medium select-none text-zinc-800 dark:text-white" data-flux-label="" id="lofi-label-9e4f2001ce6f4" aria-hidden="true">
+    Show Tooltips for Icons
+
+    
+    </ui-label>
+        
+        
+        <ui-switch class="group h-5 w-8 relative inline-flex items-center outline-offset-2 rounded-full transition bg-zinc-800/15 [&amp;[disabled]]:bg-zinc-800/10 dark:bg-transparent dark:border dark:border-white/20 dark:[&amp;[disabled]]:border-white/10 [print-color-adjust:exact] data-[checked]:bg-zinc-800 data-[checked]:dark:bg-white/20 [&amp;[disabled]]:data-[checked]:bg-zinc-500 [&amp;[disabled]]:data-[checked]:dark:bg-white/10 data-[checked]:border-0" x-model="show_tooltips" label="Show Tooltips for Icons" data-pan="switch-settings-tooltips" data-flux-control="" data-flux-switch="" aria-checked="true" role="switch" tabindex="0" data-checked="" aria-labelledby="lofi-label-9e4f2001ce6f4">
+        <span class="size-3.5 rounded-full transition translate-x-[3px] dark:translate-x-[2px] bg-white [[disabled]_&amp;]:bg-white/90 dark:[[disabled]_&amp;]:bg-white/50 group-data-[checked]:translate-x-[15px] group-data-[checked]:bg-white group-data-[checked]:dark:bg-white"></span>
+    </ui-switch>
+
+        <div aria-live="assertive" class="mt-3 text-sm font-medium text-red-500 dark:text-red-400 hidden" data-flux-error="">
+    </div>
+</ui-field>
+
+    <ui-field class="min-w-0 [&amp;:not(:has([data-flux-field])):has([data-flux-control][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-radio-group][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-checkbox-group][disabled])&gt;[data-flux-label]]:opacity-50 grid gap-x-3 gap-y-1.5 has-[[data-flux-label]~[data-flux-control]]:grid-cols-[1fr_auto] has-[[data-flux-control]~[data-flux-label]]:grid-cols-[auto_1fr] [&amp;&gt;[data-flux-control]~[data-flux-description]]:row-start-2 [&amp;&gt;[data-flux-control]~[data-flux-description]]:col-start-2 [&amp;&gt;[data-flux-control]~[data-flux-error]]:col-span-2 [&amp;&gt;[data-flux-control]~[data-flux-error]]:mt-1 [&amp;&gt;[data-flux-label]~[data-flux-control]]:row-start-1 [&amp;&gt;[data-flux-label]~[data-flux-control]]:col-start-2" data-flux-field="">
+    <ui-label class="text-sm font-medium select-none text-zinc-800 dark:text-white" data-flux-label="" id="lofi-label-71c9e6ef58cf5" aria-hidden="true">
+    Show Sidebar
+
+    
+    </ui-label>
+        
+        
+        <ui-switch class="group h-5 w-8 relative inline-flex items-center outline-offset-2 rounded-full transition bg-zinc-800/15 [&amp;[disabled]]:bg-zinc-800/10 dark:bg-transparent dark:border dark:border-white/20 dark:[&amp;[disabled]]:border-white/10 [print-color-adjust:exact] data-[checked]:bg-zinc-800 data-[checked]:dark:bg-white/20 [&amp;[disabled]]:data-[checked]:bg-zinc-500 [&amp;[disabled]]:data-[checked]:dark:bg-white/10 data-[checked]:border-0" x-model="show_sidebar" label="Show Sidebar" data-pan="switch-settings-sidebar" data-flux-control="" data-flux-switch="" aria-checked="true" role="switch" tabindex="0" data-checked="" aria-labelledby="lofi-label-71c9e6ef58cf5">
+        <span class="size-3.5 rounded-full transition translate-x-[3px] dark:translate-x-[2px] bg-white [[disabled]_&amp;]:bg-white/90 dark:[[disabled]_&amp;]:bg-white/50 group-data-[checked]:translate-x-[15px] group-data-[checked]:bg-white group-data-[checked]:dark:bg-white"></span>
+    </ui-switch>
+
+        <div aria-live="assertive" class="mt-3 text-sm font-medium text-red-500 dark:text-red-400 hidden" data-flux-error="">
+    </div>
+</ui-field>
+
+    <ui-field class="min-w-0 [&amp;:not(:has([data-flux-field])):has([data-flux-control][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-radio-group][disabled])&gt;[data-flux-label]]:opacity-50 [&amp;:has(&gt;[data-flux-checkbox-group][disabled])&gt;[data-flux-label]]:opacity-50 grid gap-x-3 gap-y-1.5 has-[[data-flux-label]~[data-flux-control]]:grid-cols-[1fr_auto] has-[[data-flux-control]~[data-flux-label]]:grid-cols-[auto_1fr] [&amp;&gt;[data-flux-control]~[data-flux-description]]:row-start-2 [&amp;&gt;[data-flux-control]~[data-flux-description]]:col-start-2 [&amp;&gt;[data-flux-control]~[data-flux-error]]:col-span-2 [&amp;&gt;[data-flux-control]~[data-flux-error]]:mt-1 [&amp;&gt;[data-flux-label]~[data-flux-control]]:row-start-1 [&amp;&gt;[data-flux-label]~[data-flux-control]]:col-start-2" data-flux-field="">
+    <ui-label class="text-sm font-medium select-none text-zinc-800 dark:text-white" data-flux-label="" id="lofi-label-28d0118ead417" aria-hidden="true">
+    Show Titles + Subtitles (Tabler Icons)
+
+    
+    </ui-label>
+        
+        
+        <ui-switch class="group h-5 w-8 relative inline-flex items-center outline-offset-2 rounded-full transition bg-zinc-800/15 [&amp;[disabled]]:bg-zinc-800/10 dark:bg-transparent dark:border dark:border-white/20 dark:[&amp;[disabled]]:border-white/10 [print-color-adjust:exact] data-[checked]:bg-zinc-800 data-[checked]:dark:bg-white/20 [&amp;[disabled]]:data-[checked]:bg-zinc-500 [&amp;[disabled]]:data-[checked]:dark:bg-white/10 data-[checked]:border-0" x-model="show_titles" label="Show Titles + Subtitles (Tabler Icons)" data-pan="switch-settings-titles" data-flux-control="" data-flux-switch="" aria-checked="true" role="switch" tabindex="0" data-checked="" aria-labelledby="lofi-label-28d0118ead417">
+        <span class="size-3.5 rounded-full transition translate-x-[3px] dark:translate-x-[2px] bg-white [[disabled]_&amp;]:bg-white/90 dark:[[disabled]_&amp;]:bg-white/50 group-data-[checked]:translate-x-[15px] group-data-[checked]:bg-white group-data-[checked]:dark:bg-white"></span>
+    </ui-switch>
+
+        <div aria-live="assertive" class="mt-3 text-sm font-medium text-red-500 dark:text-red-400 hidden" data-flux-error="">
+    </div>
+</ui-field>
+
+                    
+            <div class="absolute top-0 right-0 mt-4 mr-4 [&amp;[hidden]]:block" hidden="">
+                <ui-close data-flux-modal-close="">
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none h-8 text-sm rounded-md w-8 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white     !text-zinc-400 hover:!text-zinc-800 dark:!text-zinc-500 dark:hover:!text-white" data-flux-button="data-flux-button" alt="Close modal">
+        <svg class="shrink-0 [:where(&amp;)]:size-5" data-flux-icon="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M6.28 5.22a.75.75 0 0 0-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 1 0 1.06 1.06L10 11.06l3.72 3.72a.75.75 0 1 0 1.06-1.06L11.06 10l3.72-3.72a.75.75 0 0 0-1.06-1.06L10 8.94 6.28 5.22Z"></path>
+</svg>
+    </button>
+</ui-close>
+            </div>
+            </dialog>
+</ui-modal>
+            </div>
+</div>
+    <ui-toast x-data="" x-on:toast-show.document="$el.showToast($event.detail)" wire:ignore="" role="status">
+    <template></template>
+</ui-toast>
+    </div>
+        <script src="./favicon_files/flux.min.js.descargar" data-navigate-once=""></script>
+    
+    <script>
+        (function(){"use strict";window.__pan=window.__pan||{csrfToken:"PO00L8jfeF6XKuVz25gIdoBErxHEeH1tMYnbkuei",routePrefix:"pan",observer:null,clickListener:null,mouseoverListener:null,inertiaStartListener:null},window.__pan.observer&&(window.__pan.observer.disconnect(),window.__pan.observer=null),window.__pan.clickListener&&(document.removeEventListener("click",window.__pan.clickListener),window.__pan.clickListener=null),window.__pan.mouseoverListener&&(document.removeEventListener("mouseover",window.__pan.mouseoverListener),window.__pan.mouseoverListener=null),window.__pan.inertiaStartListener&&(document.removeEventListener("inertia:start",window.__pan.inertiaStartListener),window.__pan.inertiaStartListener=null),function(){const p=e=>{const n=new MutationObserver(e);n.observe(document.body,{childList:!0,subtree:!0,attributes:!0}),window.__pan.observer=n};let i=[],a=null,r=[],s=[],u=[];const c=()=>{if(i.length===0)return;const e=i.slice();i=[],navigator.sendBeacon(`/${window.__pan.routePrefix}/events`,new Blob([JSON.stringify({events:e,_token:window.__pan.csrfToken})],{type:"application/json"}))},l=function(){a&&clearTimeout(a),a=setTimeout(c,1e3)},d=function(e,n){const w=e.target.closest("[data-pan]");if(w===null)return;const o=w.getAttribute("data-pan");if(o!==null){if(n==="hover"){if(s.includes(o))return;s.push(o)}if(n==="click"){if(u.includes(o))return;u.push(o)}i.push({type:n,name:o}),l()}},_=function(){document.querySelectorAll("[data-pan]").forEach(n=>{if(n.checkVisibility!==void 0&&!n.checkVisibility())return;const t=n.getAttribute("data-pan");t!==null&&(r.includes(t)||(r.push(t),i.push({type:"impression",name:t})))}),l()};p(function(){r.forEach(e=>{document.querySelector(`[data-pan='${e}']`)===null&&(r=r.filter(t=>t!==e),s=s.filter(t=>t!==e),u=u.filter(t=>t!==e))}),_()}),window.__pan.clickListener=e=>d(e,"click"),document.addEventListener("click",window.__pan.clickListener),window.__pan.mouseoverListener=e=>d(e,"hover"),document.addEventListener("mouseover",window.__pan.mouseoverListener),window.__pan.inertiaStartListener=e=>{r=[],s=[],u=[],_()},document.addEventListener("inertia:start",window.__pan.inertiaStartListener),window.__pan.beforeUnloadListener=function(e){i.length!==0&&c()},window.addEventListener("beforeunload",window.__pan.beforeUnloadListener)}()})();
+
+    </script>
+<script src="./favicon_files/livewire.min.js.descargar" data-csrf="PO00L8jfeF6XKuVz25gIdoBErxHEeH1tMYnbkuei" data-update-uri="/livewire/update" data-navigate-once="true"></script>
+
+
+
+<div class="popup" style="position: fixed; right: 1rem; bottom: 1rem; background-color: white; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px; border-radius: 0.5rem; padding: 1rem; width: 300px; display: block;"><button style="position: absolute; top: 0.5rem; right: 0.5rem; background-color: transparent; border: none; cursor: pointer;">✖</button><div></div><div style="margin-top: 1rem;"><a href="https://tablericons.com/icon/screen-share#" style="margin-right: 0.5rem; color: rgb(59, 130, 246); text-decoration: underline;">Feedback Form</a></div></div></body></html>
