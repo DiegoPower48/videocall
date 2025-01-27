@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: {
-    default: "Share screen",
+    default: "Screen Sharer",
   },
   description: "App to share your screen with any friend",
   authors: [
@@ -24,10 +24,10 @@ export const metadata = {
     },
   ],
   openGraph: {
-    title: "Share screen",
+    title: "Screen Sharer",
     description: "App to share your screen with any friend",
     url: "https://dev-screenshare.vercel.app",
-    siteName: "Share screen",
+    siteName: "Screen Sharer",
     images: [
       {
         url: "/icon.webp",
@@ -41,7 +41,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image", // Tipo de tarjeta (puede ser `summary` o `summary_large_image`).
-    title: "Share screen", // Título para la tarjeta de Twitter.
+    title: "Screen Sharer", // Título para la tarjeta de Twitter.
     description: "App to share your screen with any friend", // Breve descripción.
     images: ["/icon.webp"], // Imagen que se mostrará.
   },

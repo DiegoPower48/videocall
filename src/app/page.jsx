@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="max-h-screen w-screen grid ">
       <p className="h-20  flex text-4xl items-center justify-center text-white">
-        Videochat
+        Screen Sharer
       </p>
       <div className="h-full grid justify-center items-center  text-black">
         {loaded ? (
