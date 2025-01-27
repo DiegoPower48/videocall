@@ -113,6 +113,17 @@ export default function Caller({ reloadFuction, socket, userId, userName }) {
     }
   };
 
+  const rejectCall = () => {
+    // Enviar un evento al servidor indicando que la llamada fue rechazada
+    socket.emit("rejectCall", { to: caller });
+
+    // Restablecer el estado relacionado con la llamada entrante
+    setReceivingCall(false);
+    setCaller("");
+    setCallerSignal(null);
+    setName("");
+  };
+
   const copyToClipboard = (text) => {
     navigator.clipboard
       .writeText(text)
@@ -149,6 +160,12 @@ export default function Caller({ reloadFuction, socket, userId, userName }) {
   const leaveCall = () => {
     reloadFuction();
   };
+
+  useEffect(() => {
+    socket.on("callRejected", (data) => {
+      alert("Llamada rechazada!!!");
+    });
+  }, []);
 
   useEffect(() => {
     socket.on("callUser", (data) => {
@@ -238,24 +255,24 @@ export default function Caller({ reloadFuction, socket, userId, userName }) {
         </form>
         <div className="bg-black h-full grid grid-cols-2  text-white gap-1 items-center">
           <div
-            className={`h-full  grid grid-rows-[1fr,5fr,1fr] items-center  border-white border-2  text-center ${
+            className={`h-full  grid grid-rows-[1fr,7fr,1fr] items-center  border-white border-2  text-center ${
               fullScreenMe ? "col-span-2 grid-rows-1" : ""
             } ${fullScreenYou ? "hidden" : ""}`}
           >
             {shared ? (
               <>
-                <p className="font-bold h-14 grid items-center justify-center">
+                <p className="h-full font-bold grid items-center justify-center">
                   {myName}
                 </p>
                 <video
-                  className={` h-96 w-full  border-white border-y-2 ${
+                  className={` h-full w-full  border-white border-y-2 ${
                     fullScreenMe ? "h-screen" : ""
                   } `}
                   playsInline
                   ref={myVideo}
                   autoPlay
                 />
-                <div className=" h-20 grid justify-center items-center grid-cols-2">
+                <div className="h-16 grid justify-center items-center grid-cols-2">
                   <button
                     className="grid items-center justify-center"
                     onClick={() => toggleMuteMe()}
@@ -303,18 +320,18 @@ export default function Caller({ reloadFuction, socket, userId, userName }) {
             )}
           </div>
           <div
-            className={`h-full  grid grid-rows-[1fr,5fr,1fr] items-center  border-white border-2  text-center ${
+            className={`h-full  grid  grid-rows-[1fr,7fr,1fr] items-center  border-white border-2  text-center  ${
               fullScreenMe ? "hidden" : ""
             } ${fullScreenYou ? "col-span-2 grid-rows-1" : ""}`}
           >
             {callAccepted ? (
               <>
-                <p className="font-bold h-14 grid items-center justify-center">
+                <p className="h-full font-bold grid items-center justify-center">
                   {you === "" ? name : you}
                 </p>
                 {callAccepted ? (
                   <video
-                    className={` h-96 w-full  border-white border-y-2 ${
+                    className={` h-full w-full  border-white border-y-2${
                       fullScreenYou ? "h-screen" : ""
                     }`}
                     playsInline
@@ -325,7 +342,7 @@ export default function Caller({ reloadFuction, socket, userId, userName }) {
                   <div className=""></div>
                 )}
                 {callAccepted ? (
-                  <div className="h-20 grid justify-center items-center grid-cols-3">
+                  <div className="grid justify-center items-center grid-cols-3">
                     <button
                       className="grid items-center justify-center"
                       onClick={() => toggleMuteYou()}
@@ -370,24 +387,26 @@ export default function Caller({ reloadFuction, socket, userId, userName }) {
             ) : (
               <>
                 <div></div>
-                <div className="h-96 grid border-white border-y-2 items-center  justify-center ">
+                <div className="w-full h-full grid border-white border-y-2 items-center justify-center grid-cols-1 ">
                   {!receivingCall ? (
-                    <div className="grid grid-rows-[4fr,1fr]">
+                    <div className="grid grid-rows-[4fr,1fr] items-center justify-center">
                       <p className="h-32 w-32 bg-white text-black rounded-full flex items-center justify-center font-bold">
                         No signal
                       </p>
                       <div></div>
                     </div>
                   ) : (
-                    <div className="grid grid-rows-[4fr,1fr]">
-                      <p
-                        className="h-32 w-32 bg-red-600 text-white rounded-full flex items-center justify-center font-bold"
-                        style={{
-                          animation: "pulseCircle 2s infinite ease-in-out",
-                        }}
-                      >
-                        {`Receiving call from: ${name}`}
-                      </p>
+                    <div className="w-full h-full grid grid-rows-[2fr,1fr]">
+                      <div className="w-full flex items-center justify-center">
+                        <p
+                          className="h-32 w-32 bg-red-600 text-white rounded-full flex items-center justify-center font-bold"
+                          style={{
+                            animation: "pulseCircle 2s infinite ease-in-out",
+                          }}
+                        >
+                          {`Receiving call from: ${name}`}
+                        </p>
+                      </div>
                       <style>
                         {`
                      @keyframes pulseCircle {
@@ -404,12 +423,20 @@ export default function Caller({ reloadFuction, socket, userId, userName }) {
     
                        `}
                       </style>
-                      <button
-                        className="p-3 bg-red-900 grid items-center justify-center  rounded-full hover:bg-black "
-                        onClick={answerCall}
-                      >
-                        <div className="text-white font-bold ">Answer</div>
-                      </button>
+                      <div className="w-full flex items-center justify-center ">
+                        <button
+                          className="w-1/6 h-3/6 p-2 bg-lime-600 grid items-center justify-center  rounded-full hover:bg-lime-500   m-4 "
+                          onClick={answerCall}
+                        >
+                          <div className="text-white font-bold ">Answer</div>
+                        </button>
+                        <button
+                          className="w-1/6 h-3/6  p-2 bg-red-800 text-white rounded-full hover:bg-red-500  m-4"
+                          onClick={rejectCall}
+                        >
+                          <div className="font-bold">Reject</div>
+                        </button>
+                      </div>
                     </div>
                   )}
                 </div>

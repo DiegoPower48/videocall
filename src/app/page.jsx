@@ -36,7 +36,7 @@ function App() {
       <p className="h-20  flex text-4xl items-center justify-center text-white">
         Videochat
       </p>
-      <div className="screen h-full grid justify-center items-center  text-black">
+      <div className="h-full grid justify-center items-center  text-black">
         {loaded ? (
           <Caller
             key={key}
@@ -67,7 +67,8 @@ function App() {
                   className="p-2 bg-red-700 rounded-lg hover:bg-red-300"
                   type="submit"
                 >
-                  Set Name
+                  <p>Set Name &</p>
+                  <p>select your screen</p>
                 </button>
               </form>
             </div>
