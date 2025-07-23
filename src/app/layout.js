@@ -55,9 +55,30 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased  h-screen w-screen`}
       >
-        <AppRouterCacheProvider>{children} </AppRouterCacheProvider>
+        <div className="h-full  w-full grid grid-rows-[1fr_8fr_1fr] ">
+          <header className="h-full w-screen flex items-center justify-center">
+            <p className="flex h-full text-4xl items-center text-white">
+              Screen Sharer
+            </p>
+          </header>
+          <main className="h-full">
+          <AppRouterCacheProvider>{children} </AppRouterCacheProvider></main>
+          <footer className="h-full w-screen font-bold flex items-center px-20 py-10 gap-2 justify-end   ">
+           
+              <p className="">Created by: </p>
+              <a
+                className="text-red-500 hover:scale-110 transition duration-300"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://diegotorres-portfoliodev.vercel.app"
+              >
+                Diego Torres
+              </a>
+            
+          </footer>
+        </div>
       </body>
     </html>
   );
